@@ -4,7 +4,7 @@
 
 ## Can I download Hokucat now?
 
-The 1.4.74 preview has showcase materials, but its installer is still pending distribution review. No public installer is available yet. Check the [release page](https://github.com/ar-gen-tin/hokucat/releases) for availability. The current Mac build targets macOS 13 or later on Apple silicon and Intel.
+The current preview build is 1.4.74. Its installer is not yet available for public download. See the [README](../README.md) for preview materials and the [changelog](../CHANGELOG.md) for updates. The current Mac build targets macOS 13 or later on Apple silicon and Intel.
 
 ## How do I change a wallpaper?
 
@@ -50,7 +50,7 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 ### 现在能下载吗？
 
-1.4.74 预览版提供演示材料，安装包仍待分发审核，暂未开放公开下载。请以 [GitHub 发布页](https://github.com/ar-gen-tin/hokucat/releases)为准。当前 Mac 构建面向 macOS 13 或更新版本，包含 Apple 芯片和 Intel 版本。
+当前预览构建为 1.4.74，安装包尚未开放公开下载。预览材料见[项目首页](../README.zh-CN.md)，版本变化见[更新记录](../CHANGELOG.md)。当前 Mac 构建面向 macOS 13 或更新版本，包含 Apple 芯片和 Intel 版本。
 
 ### 怎么换壁纸、排序和移除？
 

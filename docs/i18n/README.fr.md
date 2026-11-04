@@ -14,7 +14,7 @@ Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et ré
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Court aperçu du chat Hokucat ; cliquez pour regarder la vidéo de présentation montée"></a>
 
-[Regarder la vidéo](../../assets/hokucat-demo.mp4) · [Créer un fond d’écran](../ai-wallpapers.md) · [Questions fréquentes](../faq.md)
+[Site officiel](https://hokucat.com/) · [Regarder la vidéo](../../assets/hokucat-demo.mp4) · [Créer un fond d’écran](../ai-wallpapers.md) · [Questions fréquentes](../faq.md)
 
 *La vidéo est un montage de présentation des fonds d’écran. Les créations tierces pour PC montrées dans les supports d’aperçu sont réservées aux tests. Consultez les [auteurs et les pages d’origine](../credits.md).*
 
@@ -24,7 +24,7 @@ Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et ré
 
 ## Essayer Hokucat
 
-**La version 1.4.74 est une préversion. L’installeur attend l’examen préalable à sa distribution et n’est pas encore disponible en téléchargement public.** Consultez la [page des versions](https://github.com/ar-gen-tin/hokucat/releases) pour connaître la situation actuelle et voir les supports d’aperçu.
+**La version d’aperçu actuelle est la 1.4.74. L’installeur n’est pas encore disponible en téléchargement public.** Les images et la vidéo de présentation sont sur cette page ; consultez le [journal des modifications](../../CHANGELOG.md) pour les mises à jour.
 
 La version actuelle pour Mac vise **macOS 13 ou ultérieur**, sur **Apple Silicon et Intel**. Si vous disposez déjà d’une version d’évaluation :
 

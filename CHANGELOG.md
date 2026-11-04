@@ -1,8 +1,8 @@
 # Changelog
 
-These entries describe verified changes in the review builds. Preview materials are public-facing; an installer is not available until distribution review is complete. Check [Releases](https://github.com/ar-gen-tin/hokucat/releases) for availability.
+These entries describe verified changes in the preview builds. See the [project overview](README.md) for demos and the current preview status. An installer is not publicly available while distribution review is pending.
 
-## 1.4.74 — Preview release
+## 1.4.74 — Preview build
 
 Installer pending distribution review.
 

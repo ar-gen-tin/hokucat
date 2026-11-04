@@ -14,7 +14,7 @@
 
 <a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Hokucat 小猫片头预览，点击观看完整剪辑演示"></a>
 
-[观看演示视频](assets/hokucat-demo.mp4) · [创作壁纸](docs/ai-wallpapers.md#中文快速开始) · [常见问题](docs/faq.md#简体中文)
+[官网](https://hokucat.com/) · [观看演示视频](assets/hokucat-demo.mp4) · [创作壁纸](docs/ai-wallpapers.md#中文快速开始) · [常见问题](docs/faq.md#简体中文)
 
 *视频为壁纸剪辑演示。预览材料中的第三方 PC 作品仅供测试使用，详见[作者署名与原作页面](docs/credits.md)。*
 
@@ -24,7 +24,7 @@
 
 ## 快速体验
 
-**1.4.74 为预览版，安装包仍待分发审核，暂未开放公开下载。** 当前状态及预览材料请见 [GitHub 发布页](https://github.com/ar-gen-tin/hokucat/releases)。
+**当前预览构建为 1.4.74，安装包尚未开放公开下载。** 预览材料见本页，版本变化见[更新记录](CHANGELOG.md)。
 
 当前 Mac 构建面向 **macOS 13 或更新版本**，包含 **Apple 芯片和 Intel** 版本。如果你已获得审阅版：
 

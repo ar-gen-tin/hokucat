@@ -14,7 +14,7 @@ Browse your wallpaper library, preview a wallpaper, and adjust its available set
 
 <a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Short Hokucat cat preview; click to watch the edited showcase"></a>
 
-[Watch the showcase video](assets/hokucat-demo.mp4) · [Create a wallpaper](docs/ai-wallpapers.md) · [FAQ](docs/faq.md)
+[Website](https://hokucat.com/) · [Watch the showcase video](assets/hokucat-demo.mp4) · [Create a wallpaper](docs/ai-wallpapers.md) · [FAQ](docs/faq.md)
 
 *The video is an edited wallpaper showcase. Third-party PC works shown in the preview materials are for testing only; see [authors and original pages](docs/credits.md).*
 
@@ -24,7 +24,7 @@ Browse your wallpaper library, preview a wallpaper, and adjust its available set
 
 ## Try Hokucat
 
-**1.4.74 is a preview release. The installer is pending distribution review and is not available for public download yet.** See the [release page](https://github.com/ar-gen-tin/hokucat/releases) for the current status and preview materials.
+**The current preview build is 1.4.74. Its installer is not yet available for public download.** Preview materials are on this page; see the [changelog](CHANGELOG.md) for updates.
 
 The current Mac build targets **macOS 13 or later**, on **Apple silicon and Intel**. If you already have a review build:
 

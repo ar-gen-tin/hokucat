@@ -14,7 +14,7 @@ Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus 
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Breve vista previa del gato Hokucat; haz clic para ver el vídeo de presentación editado"></a>
 
-[Ver el vídeo](../../assets/hokucat-demo.mp4) · [Crear un fondo de pantalla](../ai-wallpapers.md) · [Preguntas frecuentes](../faq.md)
+[Sitio oficial](https://hokucat.com/) · [Ver el vídeo](../../assets/hokucat-demo.mp4) · [Crear un fondo de pantalla](../ai-wallpapers.md) · [Preguntas frecuentes](../faq.md)
 
 *El vídeo es una presentación editada de los fondos de pantalla. Las obras de terceros para PC que aparecen en los materiales de vista previa se utilizan únicamente para pruebas. Consulta los [autores y las páginas originales](../credits.md).*
 
@@ -24,7 +24,7 @@ Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus 
 
 ## Prueba Hokucat
 
-**La versión 1.4.74 es una versión preliminar. El instalador está pendiente de revisión para su distribución y todavía no se puede descargar públicamente.** Consulta el estado actual y los materiales de vista previa en la [página de versiones](https://github.com/ar-gen-tin/hokucat/releases).
+**La versión de prueba actual es la 1.4.74. El instalador todavía no está disponible para descarga pública.** Los materiales de vista previa están en esta página; consulta el [registro de cambios](../../CHANGELOG.md) para ver las actualizaciones.
 
 La versión actual para Mac está dirigida a **macOS 13 o posterior**, tanto en **Apple Silicon como en Intel**. Si ya tienes una versión para evaluación:
 

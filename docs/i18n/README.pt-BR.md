@@ -14,7 +14,7 @@ Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Prévia curta do gato Hokucat; clique para assistir à apresentação editada"></a>
 
-[Assistir ao vídeo](../../assets/hokucat-demo.mp4) · [Criar um papel de parede](../ai-wallpapers.md) · [Perguntas frequentes](../faq.md)
+[Site oficial](https://hokucat.com/) · [Assistir ao vídeo](../../assets/hokucat-demo.mp4) · [Criar um papel de parede](../ai-wallpapers.md) · [Perguntas frequentes](../faq.md)
 
 *O vídeo é uma apresentação editada dos papéis de parede. As obras de terceiros para PC que aparecem nos materiais de prévia são usadas apenas para testes. Veja os [autores e as páginas originais](../credits.md).*
 
@@ -24,7 +24,7 @@ Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções
 
 ## Experimente o Hokucat
 
-**A versão 1.4.74 é uma prévia. O instalador está em análise para distribuição e ainda não está disponível para download público.** Consulte a [página de releases](https://github.com/ar-gen-tin/hokucat/releases) para ver o status atual e os materiais de prévia.
+**A versão de prévia atual é a 1.4.74. O instalador ainda não está disponível para download público.** Os materiais de prévia estão nesta página; veja as atualizações no [histórico de alterações](../../CHANGELOG.md).
 
 A versão atual para Mac é destinada ao **macOS 13 ou posterior**, em **Apple Silicon e Intel**. Se você já tem uma versão para avaliação:
 

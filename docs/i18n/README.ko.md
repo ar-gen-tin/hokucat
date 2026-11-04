@@ -14,7 +14,7 @@
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 고양이의 짧은 미리보기. 클릭하면 편집된 소개 영상을 볼 수 있습니다"></a>
 
-[소개 영상 보기](../../assets/hokucat-demo.mp4) · [배경화면 만들기](../ai-wallpapers.md) · [자주 묻는 질문](../faq.md)
+[공식 웹사이트](https://hokucat.com/) · [소개 영상 보기](../../assets/hokucat-demo.mp4) · [배경화면 만들기](../ai-wallpapers.md) · [자주 묻는 질문](../faq.md)
 
 *영상은 편집하여 제작한 배경화면 소개 자료입니다. 미리보기 자료에 등장하는 타 제작자의 PC용 작품은 테스트용으로만 사용됩니다. [제작자와 원본 페이지](../credits.md)를 확인하세요.*
 
@@ -24,9 +24,9 @@
 
 ## Hokucat 사용해 보기
 
-**1.4.74는 프리뷰 릴리스입니다. 설치 파일은 배포 검토 중이며 아직 공개 다운로드로 제공되지 않습니다.** 현재 상태와 미리보기 자료는 [릴리스 페이지](https://github.com/ar-gen-tin/hokucat/releases)에서 확인할 수 있습니다.
+**현재 미리보기 빌드는 1.4.74이며, 설치 파일은 아직 공개 다운로드로 제공되지 않습니다.** 미리보기 자료는 이 페이지에서, 변경 사항은 [변경 기록](../../CHANGELOG.md)에서 확인할 수 있습니다.
 
-현재 Mac 빌드는 **macOS 13 이상**에서 **Apple Silicon과 Intel**을 지원합니다. 이미 검토용 빌드가 있다면:
+현재 Mac 빌드는 **macOS 13 이상**의 **Apple Silicon 및 Intel** 환경을 대상으로 합니다. 이미 검토용 빌드가 있다면:
 
 1. 메뉴 막대에서 Hokucat을 열고 **배경화면 대시보드…**를 선택하세요.
 2. 배경화면을 선택하세요. 같은 화면에서 미리 보고 해당 작품에서 제공하는 설정을 조절할 수 있습니다.

@@ -14,7 +14,7 @@
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 小貓短片預覽，點選觀看完整剪輯展示"></a>
 
-[觀看展示影片](../../assets/hokucat-demo.mp4) · [創作桌布](../ai-wallpapers.md) · [常見問題](../faq.md)
+[官網](https://hokucat.com/) · [觀看展示影片](../../assets/hokucat-demo.mp4) · [創作桌布](../ai-wallpapers.md) · [常見問題](../faq.md)
 
 *影片是經剪輯製作的桌布展示。預覽素材中的第三方 PC 創作者作品僅供測試，請見[作者與原作頁面](../credits.md)。*
 
@@ -24,9 +24,9 @@
 
 ## 試用 Hokucat
 
-**1.4.74 是預覽版本。安裝包仍待分發審查，尚未提供公開下載。** 目前狀態與預覽素材請見[發布頁](https://github.com/ar-gen-tin/hokucat/releases)。
+**目前預覽版本為 1.4.74，安裝包尚未提供公開下載。** 預覽素材見本頁，版本變更請見[更新紀錄](../../CHANGELOG.md)。
 
-目前的 Mac 版本支援 **macOS 13 或更新版本**，相容 **Apple 晶片與 Intel**。如果你已持有審閱版：
+目前的 Mac 版本面向 **macOS 13 或更新版本**，包括 **Apple 晶片與 Intel** 版本。如果你已持有審閱版：
 
 1. 從選單列開啟 Hokucat，選擇**桌布面板…**。
 2. 選取桌布，在同一頁預覽並調整該作品提供的控制項。
