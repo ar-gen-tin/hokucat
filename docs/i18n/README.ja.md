@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>Mac のデスクトップに、ちょっとした動きを。</strong></p>
+<p align="center"><strong>macOS 用のライブ壁紙</strong></p>
 
 <p align="center">
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · 日本語 · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-壁紙ライブラリの閲覧、作品のプレビュー、設定の調整をひとつのウインドウで行えます。気に入った状態になったら、デスクトップに適用してください。Hokucat は、動く風景や触って遊べるキャラクターを macOS に届けます。小さな黒猫はポインタを目で追い、ドラッグできる星を追いかけます。
+壁紙ライブラリの閲覧、プレビュー、利用できる設定の調整をひとつのウインドウで行えます。AI で自分だけの壁紙を作ることもできます。
 
-![ライブラリ、プレビュー、設定をまとめた Hokucat の壁紙ダッシュボード](../../assets/hokucat-dashboard.jpg)
-
-*1.4.73 レビュー版で撮影した壁紙ダッシュボードの実際の画面。*
-
-[![Hokucat の猫の短いプレビュー。クリックすると編集版の紹介映像を再生します](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat の猫の短いプレビュー。クリックすると編集版の紹介映像を再生します"></a>
 
 [紹介映像を見る](../../assets/hokucat-demo.mp4) · [壁紙を作る](../ai-wallpapers.md) · [よくある質問](../faq.md)
 
 *映像は編集して制作した壁紙の紹介です。プレビュー素材に登場する第三者の PC 向け作品はテスト専用です。[作者と作品の公開ページ](../credits.md)をご確認ください。*
+
+<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="ライブラリ、プレビュー、設定をまとめた Hokucat の壁紙ダッシュボード">
+
+*1.4.73 レビュー版で撮影した壁紙ダッシュボードの実際の画面。*
 
 ## Hokucat を試す
 

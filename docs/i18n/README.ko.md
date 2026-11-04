@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>Mac 데스크톱에 작은 움직임을 더하세요.</strong></p>
+<p align="center"><strong>macOS용 라이브 배경화면</strong></p>
 
 <p align="center">
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-하나의 창에서 배경화면 라이브러리를 둘러보고, 작품을 미리 보고, 제공되는 설정을 조절하세요. 마음에 들면 데스크톱에 적용하면 됩니다. Hokucat은 macOS에 움직이는 장면과 함께 놀 수 있는 캐릭터를 더합니다. 작은 검은 고양이는 포인터를 바라보고, 드래그할 수 있는 별을 쫓아갑니다.
+하나의 창에서 배경화면 라이브러리를 둘러보고, 미리 보면서 제공되는 설정을 조절하세요. AI로 나만의 배경화면을 만들 수도 있습니다.
 
-![라이브러리, 미리보기, 설정을 한곳에 모은 Hokucat 배경화면 대시보드](../../assets/hokucat-dashboard.jpg)
-
-*1.4.73 검토용 빌드에서 캡처한 실제 배경화면 대시보드 화면입니다.*
-
-[![Hokucat 고양이의 짧은 미리보기. 클릭하면 편집된 소개 영상을 볼 수 있습니다](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 고양이의 짧은 미리보기. 클릭하면 편집된 소개 영상을 볼 수 있습니다"></a>
 
 [소개 영상 보기](../../assets/hokucat-demo.mp4) · [배경화면 만들기](../ai-wallpapers.md) · [자주 묻는 질문](../faq.md)
 
 *영상은 편집하여 제작한 배경화면 소개 자료입니다. 미리보기 자료에 등장하는 타 제작자의 PC용 작품은 테스트용으로만 사용됩니다. [제작자와 원본 페이지](../credits.md)를 확인하세요.*
+
+<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="라이브러리, 미리보기, 설정을 한곳에 모은 Hokucat 배경화면 대시보드">
+
+*1.4.73 검토용 빌드에서 캡처한 실제 배경화면 대시보드 화면입니다.*
 
 ## Hokucat 사용해 보기
 

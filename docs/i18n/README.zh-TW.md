@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>讓 Mac 桌面動起來</strong></p>
+<p align="center"><strong>macOS 動態桌布</strong></p>
 
 <p align="center">
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · 繁體中文 · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-在同一個視窗瀏覽桌布收藏、預覽作品並調整可用設定。選好後再套用到桌面。Hokucat 為 macOS 帶來動態場景與互動角色，其中的小黑貓會追著滑鼠游標看，也會追逐你拖動的星星。
+在同一個視窗瀏覽桌布收藏、預覽桌布並調整可用設定。也可以用 AI 創作自己的桌布。
 
-![Hokucat 桌布面板將收藏、預覽與設定放在一起](../../assets/hokucat-dashboard.jpg)
-
-*桌布面板實際截圖，擷取自 1.4.73 審閱版。*
-
-[![Hokucat 小貓短片預覽，點選觀看完整剪輯展示](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 小貓短片預覽，點選觀看完整剪輯展示"></a>
 
 [觀看展示影片](../../assets/hokucat-demo.mp4) · [創作桌布](../ai-wallpapers.md) · [常見問題](../faq.md)
 
 *影片是經剪輯製作的桌布展示。預覽素材中的第三方 PC 創作者作品僅供測試，請見[作者與原作頁面](../credits.md)。*
+
+<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="Hokucat 桌布面板將收藏、預覽與設定放在一起">
+
+*桌布面板實際截圖，擷取自 1.4.73 審閱版。*
 
 ## 試用 Hokucat
 

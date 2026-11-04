@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>Um pouco de vida na área de trabalho do seu Mac.</strong></p>
+<p align="center"><strong>Papéis de parede animados para macOS</strong></p>
 
 <p align="center">
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · Português (Brasil) · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-Explore sua biblioteca de papéis de parede, veja uma prévia e ajuste as opções disponíveis em uma única janela. Aplique quando estiver do seu jeito. O Hokucat traz cenas animadas e personagens com os quais você pode brincar para o macOS, incluindo um gatinho preto que acompanha o cursor e persegue uma estrela que você pode arrastar.
+Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções disponíveis em uma única janela. Use IA para criar seus próprios papéis de parede.
 
-![Painel de papéis de parede do Hokucat com biblioteca, prévia e ajustes na mesma janela](../../assets/hokucat-dashboard.jpg)
-
-*Captura real do Painel de papéis de parede na versão 1.4.73 para avaliação.*
-
-[![Prévia curta do gato Hokucat; clique para assistir à apresentação editada](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Prévia curta do gato Hokucat; clique para assistir à apresentação editada"></a>
 
 [Assistir ao vídeo](../../assets/hokucat-demo.mp4) · [Criar um papel de parede](../ai-wallpapers.md) · [Perguntas frequentes](../faq.md)
 
 *O vídeo é uma apresentação editada dos papéis de parede. As obras de terceiros para PC que aparecem nos materiais de prévia são usadas apenas para testes. Veja os [autores e as páginas originais](../credits.md).*
+
+<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="Painel de papéis de parede do Hokucat com biblioteca, prévia e ajustes na mesma janela">
+
+*Captura real do Painel de papéis de parede na versão 1.4.73 para avaliação.*
 
 ## Experimente o Hokucat
 

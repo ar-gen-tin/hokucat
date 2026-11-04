@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>Un poco de vida en el escritorio de tu Mac.</strong></p>
+<p align="center"><strong>Fondos de pantalla animados para macOS</strong></p>
 
 <p align="center">
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · Español · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-Explora tu biblioteca de fondos, previsualiza una obra y ajusta sus opciones disponibles en una sola ventana. Aplícala cuando esté a tu gusto. Hokucat lleva escenas animadas y personajes con los que jugar a macOS, incluido un pequeño gato negro que sigue el puntero y persigue una estrella que puedes arrastrar.
+Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus opciones disponibles en una sola ventana. Usa IA para crear tus propios fondos de pantalla.
 
-![Panel de fondos de pantalla de Hokucat con biblioteca, vista previa y ajustes juntos](../../assets/hokucat-dashboard.jpg)
-
-*Captura real del Panel de fondos de pantalla en la versión 1.4.73 para evaluación.*
-
-[![Breve vista previa del gato Hokucat; haz clic para ver el vídeo de presentación editado](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Breve vista previa del gato Hokucat; haz clic para ver el vídeo de presentación editado"></a>
 
 [Ver el vídeo](../../assets/hokucat-demo.mp4) · [Crear un fondo de pantalla](../ai-wallpapers.md) · [Preguntas frecuentes](../faq.md)
 
 *El vídeo es una presentación editada de los fondos de pantalla. Las obras de terceros para PC que aparecen en los materiales de vista previa se utilizan únicamente para pruebas. Consulta los [autores y las páginas originales](../credits.md).*
+
+<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="Panel de fondos de pantalla de Hokucat con biblioteca, vista previa y ajustes juntos">
+
+*Captura real del Panel de fondos de pantalla en la versión 1.4.73 para evaluación.*
 
 ## Prueba Hokucat
 

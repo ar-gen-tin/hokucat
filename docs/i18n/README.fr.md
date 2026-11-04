@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>Un peu de vie sur le bureau de votre Mac.</strong></p>
+<p align="center"><strong>Fonds d’écran animés pour macOS</strong></p>
 
 <p align="center">
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · Français · <a href="README.ar.md">العربية</a>
 </p>
 
-Parcourez votre bibliothèque de fonds d’écran, prévisualisez une création et réglez les options disponibles dans une seule fenêtre. Appliquez-la lorsqu’elle vous convient. Hokucat apporte à macOS des scènes animées et des personnages avec lesquels jouer, dont un petit chat noir qui suit le pointeur et poursuit une étoile que vous pouvez faire glisser.
+Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et réglez ses options disponibles dans une seule fenêtre. Créez aussi vos propres fonds d’écran avec l’IA.
 
-![Tableau de bord Hokucat réunissant la bibliothèque, l’aperçu et les réglages](../../assets/hokucat-dashboard.jpg)
-
-*Capture réelle du Tableau de bord des fonds d’écran dans la version 1.4.73 destinée à l’évaluation.*
-
-[![Court aperçu du chat Hokucat ; cliquez pour regarder la vidéo de présentation montée](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Court aperçu du chat Hokucat ; cliquez pour regarder la vidéo de présentation montée"></a>
 
 [Regarder la vidéo](../../assets/hokucat-demo.mp4) · [Créer un fond d’écran](../ai-wallpapers.md) · [Questions fréquentes](../faq.md)
 
 *La vidéo est un montage de présentation des fonds d’écran. Les créations tierces pour PC montrées dans les supports d’aperçu sont réservées aux tests. Consultez les [auteurs et les pages d’origine](../credits.md).*
+
+<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="Tableau de bord Hokucat réunissant la bibliothèque, l’aperçu et les réglages">
+
+*Capture réelle du Tableau de bord des fonds d’écran dans la version 1.4.73 destinée à l’évaluation.*
 
 ## Essayer Hokucat
 

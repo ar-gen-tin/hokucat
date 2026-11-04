@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>让 Mac 桌面多一点生动</strong></p>
+<p align="center"><strong>macOS 动态壁纸</strong></p>
 
 <p align="center">
   <a href="README.md">English</a> · 简体中文 · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
-浏览壁纸库，选中喜欢的作品，在同一窗口预览和调整设置，满意后再应用到桌面。Hokucat 把动态场景和有趣的角色带到 macOS：小黑猫会追随鼠标，也会追逐你拖动的星星。
+在同一窗口浏览壁纸库、预览壁纸并调整可用设置。也可以用 AI 创作自己的壁纸。
 
-![Hokucat 壁纸面板，壁纸库、预览和设置位于同一窗口](assets/hokucat-dashboard-zh.jpg)
-
-*壁纸面板截图来自 1.4.73 审阅版。*
-
-[![Hokucat 小猫片头预览，点击观看完整剪辑演示](assets/hokucat-demo.gif)](assets/hokucat-demo.mp4)
+<a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Hokucat 小猫片头预览，点击观看完整剪辑演示"></a>
 
 [观看演示视频](assets/hokucat-demo.mp4) · [创作壁纸](docs/ai-wallpapers.md#中文快速开始) · [常见问题](docs/faq.md#简体中文)
 
 *视频为壁纸剪辑演示。预览材料中的第三方 PC 作品仅供测试使用，详见[作者署名与原作页面](docs/credits.md)。*
+
+<img src="assets/hokucat-dashboard-zh.jpg" width="960" alt="Hokucat 壁纸面板，壁纸库、预览和设置位于同一窗口">
+
+*壁纸面板截图来自 1.4.73 审阅版。*
 
 ## 快速体验
 

@@ -4,23 +4,23 @@
 
 <h1 align="center">Hokucat</h1>
 
-<p align="center"><strong>A little life on your Mac desktop.</strong></p>
+<p align="center"><strong>Live wallpapers for macOS</strong></p>
 
 <p align="center">
   English · <a href="README.zh-CN.md">简体中文</a> · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
-Browse your wallpaper library, preview a work, and adjust its available settings in one window. Apply it when it feels right. Hokucat brings animated scenes and playful characters to macOS, including a little black cat that follows your pointer and chases a star you can drag.
+Browse your wallpaper library, preview a wallpaper, and adjust its available settings in one window. Use AI to create wallpapers of your own.
 
-![Hokucat Wallpaper Dashboard with library, preview, and settings together](assets/hokucat-dashboard.jpg)
-
-*Wallpaper Dashboard, captured in the 1.4.73 review build.*
-
-[![Short Hokucat cat preview; click to watch the edited showcase](assets/hokucat-demo.gif)](assets/hokucat-demo.mp4)
+<a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Short Hokucat cat preview; click to watch the edited showcase"></a>
 
 [Watch the showcase video](assets/hokucat-demo.mp4) · [Create a wallpaper](docs/ai-wallpapers.md) · [FAQ](docs/faq.md)
 
 *The video is an edited wallpaper showcase. Third-party PC works shown in the preview materials are for testing only; see [authors and original pages](docs/credits.md).*
+
+<img src="assets/hokucat-dashboard.jpg" width="960" alt="Hokucat Wallpaper Dashboard with library, preview, and settings together">
+
+*Wallpaper Dashboard, captured in the 1.4.73 review build.*
 
 ## Try Hokucat
 
