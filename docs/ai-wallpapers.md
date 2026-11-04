@@ -74,6 +74,12 @@ In an installed Hokucat build with Package v1 support, open **Wallpaper Dashboar
 
 Package v1 accepts PNG or JPEG stills and silent MP4, MOV, or M4V loops. The desktop plays the packaged media locally. The AI assistant is a creation tool for this workflow. Interactive Web and Windows Scene projects, audio input, and live pointer, API, or agent input are outside the v1 format.
 
+## Share your wallpaper
+
+Made a wallpaper with AI? [Share a preview and how you made it](https://github.com/ar-gen-tin/hokucat/issues/new?template=share_wallpaper.yml). Include the title, author, tools, asset sources, and test status. AI prompts, scripts, and package links are optional.
+
+You can share before trying it in Hokucat—just choose the test status that matches your work. A preview is enough; no pull request is needed.
+
 ## 中文快速开始
 
 本教程的程序示例生成自己的素材，与 Hokucat 预览材料中仅供测试的第三方 PC 作品分开；相关作者和原页见[署名说明](credits.md)。
@@ -100,3 +106,9 @@ python3 examples/make-wallpaper.py "$HOME/my-wallpaper" \
 ```
 
 在已安装的 Hokucat 里选择「壁纸面板 → 导入…」，选中整个作品文件夹，然后预览并应用。AI 参与的是创作阶段，应用播放的是导入后的本机视频。Package v1 的公开示例使用静音循环视频。
+
+### 分享你的壁纸
+
+用 AI 做了自己的壁纸？[分享一段预览，说说制作方法](https://github.com/ar-gen-tin/hokucat/issues/new?template=share_wallpaper.yml)。请写明作品名称、作者、所用工具、素材来源和测试状态。AI 提示词、脚本和作品包链接都可以选填。
+
+还没在 Hokucat 里试过也可以，请选择符合当前进度的测试状态。有预览就能分享，不需要提交 PR。

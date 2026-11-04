@@ -1,5 +1,11 @@
 # Contributing to Hokucat
 
+## Share a wallpaper / 分享壁纸
+
+Made a wallpaper with AI or your own media? [Share your wallpaper](https://github.com/ar-gen-tin/hokucat/issues/new?template=share_wallpaper.yml) with a preview, your name, and a short description of how you made it. Include the asset sources and whether you have tried it in Hokucat. AI prompts, scripts, and package links are optional. You do not need a pull request or an installed Hokucat build to share a preview.
+
+用 AI 或自己的素材做了壁纸？[分享你的作品](https://github.com/ar-gen-tin/hokucat/issues/new?template=share_wallpaper.yml)，附上预览、作者署名和简单的制作方法，说明素材来源以及是否在 Hokucat 中试过。AI 提示词、脚本和作品包链接均可选填。不需要提交 PR，也不用先安装应用，就能分享预览。
+
 Thanks for helping make Hokucat clearer and easier to use. This public repository contains documentation, showcase materials, and a wallpaper creation example. The complete Mac application source is not included here.
 
 ## Report an app problem

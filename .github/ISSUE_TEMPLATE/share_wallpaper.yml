@@ -1,0 +1,53 @@
+name: Share a wallpaper / 分享壁纸
+description: Share a wallpaper preview and how you made it / 分享壁纸预览和制作方法
+title: "[Wallpaper] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Made a wallpaper with AI, code, or your own media? Share a preview here. You can share before testing it in Hokucat, and you do not need to submit a pull request.
+
+        用 AI、代码或自己的素材做了壁纸？欢迎分享预览。还没在 Hokucat 中试过也可以，不需要提交 PR。
+  - type: input
+    id: work
+    attributes:
+      label: Title and author / 作品名称与署名
+      placeholder: Quiet Tide — Your Name
+    validations:
+      required: true
+  - type: textarea
+    id: preview
+    attributes:
+      label: Preview / 作品预览
+      description: Add an image, a short video, or a public preview link. / 添加图片、短视频或公开预览链接。
+    validations:
+      required: true
+  - type: textarea
+    id: creation
+    attributes:
+      label: How you made it / 制作方式
+      description: Name the tools and briefly describe the process. AI prompts, scripts, and package links are optional. / 写明所用工具，简单介绍制作过程。AI 提示词、脚本和作品包链接均为可选。
+    validations:
+      required: true
+  - type: dropdown
+    id: testing
+    attributes:
+      label: Test status / 测试状态
+      options:
+        - Preview only / 仅有预览
+        - Package created, not imported / 已生成作品包，尚未导入
+        - Tried in Hokucat / 已在 Hokucat 中试用
+    validations:
+      required: true
+  - type: textarea
+    id: test_details
+    attributes:
+      label: Test details, if tried / 试用情况（如已测试）
+      description: If you tried it in Hokucat, include the app and macOS versions and what worked or needs attention. / 如已在 Hokucat 中试用，请写应用与 macOS 版本，以及实际效果或遇到的问题。
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and sharing permissions / 素材来源与分享权限
+      description: Say which assets you created. For third-party material, credit the author and original page, and state what you have permission to share. / 说明哪些素材由你创作。使用第三方素材时，请署名作者、附原页，并说明获准分享的范围。
+    validations:
+      required: true
