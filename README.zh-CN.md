@@ -10,7 +10,7 @@
   <a href="README.md">English</a> · 简体中文 · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">下载 v1.4.74 预览版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256 校验值</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">下载 v1.4.74 预览版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256 校验值</a> · <a href="docs/install-with-ai.md#中文安装提示词">让 AI 帮你安装</a></p>
 
 在同一窗口浏览壁纸库、预览壁纸并调整可用设置。也可以用 AI 创作自己的壁纸。
 
@@ -26,7 +26,7 @@
 
 ## 快速体验
 
-**Hokucat 1.4.74 是使用 Developer ID 签名的预览版，支持 macOS 13 或更新版本以及 Apple 芯片和 Intel Mac。** Apple 公证尚未完成，macOS 可能阻止首次打开。安装说明见[常见问题](docs/faq.md#简体中文)，版本变化见[更新记录](CHANGELOG.md)。
+**Hokucat 1.4.74 是使用 Developer ID 签名的预览版，支持 macOS 13 或更新版本以及 Apple 芯片和 Intel Mac。** 此预览版未经过 Apple 公证，macOS 可能阻止首次打开。安装说明见[常见问题](docs/faq.md#简体中文)，版本变化见[更新记录](CHANGELOG.md)。
 
 下载上方 DMG 文件并打开，将 **Hokucat** 拖入「应用程序」后：
 

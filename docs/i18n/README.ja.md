@@ -10,7 +10,7 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · 日本語 · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">v1.4.74 プレビュー版をダウンロード</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">v1.4.74 プレビュー版をダウンロード</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI でインストール</a></p>
 
 壁紙ライブラリの閲覧、プレビュー、利用できる設定の調整をひとつのウインドウで行えます。AI で自分だけの壁紙を作ることもできます。
 
@@ -26,7 +26,7 @@
 
 ## Hokucat を試す
 
-**1.4.74 は Developer ID で署名されたプレビュー版**です。**macOS 13 以降**の **Apple シリコンと Intel** Mac に対応しています。Apple の公証はまだ完了しておらず、macOS が初回起動をブロックする場合があります。更新内容は[変更履歴](../../CHANGELOG.md)をご覧ください。
+**1.4.74 は Developer ID で署名されたプレビュー版**です。**macOS 13 以降**の **Apple シリコンと Intel** Mac に対応しています。このプレビュー版は Apple の公証を受けておらず、macOS が初回起動をブロックする場合があります。更新内容は[変更履歴](../../CHANGELOG.md)をご覧ください。
 
 DMG をダウンロードして開き、Hokucat を Applications（アプリケーション）フォルダにドラッグしたら：
 

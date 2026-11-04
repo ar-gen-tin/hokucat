@@ -6,9 +6,13 @@
 
 Yes. [Download Hokucat 1.4.74 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg) for **macOS 13 or later, on Apple silicon and Intel**. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt).
 
-This preview has a **Developer ID signature but has not completed Apple notarization**. Signing and notarization are separate checks. macOS may block the app when first opened; this is not a notarized stable release.
+This preview has a **Developer ID signature and is not notarized by Apple**. Signing and notarization are separate checks. macOS may block the app when first opened; this is not a notarized stable release.
 
 Open the DMG, drag **Hokucat** to **Applications**, then launch it from Applications. See the [changelog](../CHANGELOG.md) for the verified preview changes. The automatic GitHub source archives contain this documentation repository, not the Mac installer.
+
+## Can AI help install it?
+
+Yes. Copy the prompt in [Install with AI](install-with-ai.md) into Codex, Claude Code, or Grok Bot with access to your Mac. The assistant can check the download and signature, preserve your settings, and help install the app. Any first-launch security confirmation remains yours to approve. A browser-only chat without local computer access can provide guidance but cannot install it.
 
 ## How do I change a wallpaper?
 
@@ -56,9 +60,13 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 可以。[下载 Hokucat 1.4.74 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg)，支持 **macOS 13 或更新版本以及 Apple 芯片和 Intel Mac**。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt)。
 
-此预览版**已使用 Developer ID 签名，但尚未完成 Apple 公证**。签名与公证是不同的检查，macOS 可能阻止首次打开；这不是已公证的稳定版。
+此预览版**已使用 Developer ID 签名，未经过 Apple 公证**。签名与公证是不同的检查，macOS 可能阻止首次打开；这不是已公证的稳定版。
 
 打开 DMG，将 **Hokucat** 拖入「应用程序」，再从「应用程序」启动。已核验的预览版变化见[更新记录](../CHANGELOG.md)。GitHub 自动附带的源代码压缩包是本说明仓库，不是 Mac 安装包。
+
+### 可以让 AI 帮忙安装吗？
+
+可以。把[AI 安装指南](install-with-ai.md#中文安装提示词)里的提示词交给能操作你这台 Mac 的 Codex、Claude Code 或 Grok Bot。它可以核对下载文件与签名、保留现有设置并协助安装。首次打开的系统确认由你完成；没有本机操作权限的网页聊天只能指导，不能代为安装。
 
 ### 怎么换壁纸、排序和移除？
 
