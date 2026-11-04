@@ -10,6 +10,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · Français · <a href="README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">Télécharger la préversion v1.4.74</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+
 Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et réglez ses options disponibles dans une seule fenêtre. Créez aussi vos propres fonds d’écran avec l’IA.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Court aperçu du chat Hokucat ; cliquez pour regarder la vidéo de présentation montée"></a>
@@ -24,11 +26,11 @@ Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et ré
 
 ## Essayer Hokucat
 
-**La version d’aperçu actuelle est la 1.4.74. L’installeur n’est pas encore disponible en téléchargement public.** Les images et la vidéo de présentation sont sur cette page ; consultez le [journal des modifications](../../CHANGELOG.md) pour les mises à jour.
+**La 1.4.74 est une préversion signée avec Developer ID**, compatible avec **macOS 13 ou ultérieur** sur les Mac **Apple Silicon et Intel**. La notarisation par Apple n’est pas encore terminée ; macOS peut bloquer la première ouverture. Consultez les nouveautés dans le [journal des modifications](../../CHANGELOG.md).
 
-La version actuelle pour Mac vise **macOS 13 ou ultérieur**, sur **Apple Silicon et Intel**. Si vous disposez déjà d’une version d’évaluation :
+Téléchargez et ouvrez le DMG, faites glisser Hokucat dans le dossier Applications, puis suivez ces étapes :
 
-1. Ouvrez Hokucat depuis la barre des menus et choisissez **Tableau de bord des fonds d’écran…**.
+1. Lancez Hokucat depuis le dossier Applications, puis choisissez **Tableau de bord des fonds d’écran…** dans la barre des menus.
 2. Sélectionnez un fond d’écran. Prévisualisez-le et réglez les commandes disponibles pour cette création sur la même page.
 3. Cliquez sur **Appliquer le fond d’écran**. Si vous utilisez plusieurs écrans, choisissez d’abord l’écran de destination.
 

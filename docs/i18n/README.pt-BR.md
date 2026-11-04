@@ -10,6 +10,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · Português (Brasil) · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">Baixar a prévia v1.4.74</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+
 Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções disponíveis em uma única janela. Use IA para criar seus próprios papéis de parede.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Prévia curta do gato Hokucat; clique para assistir à apresentação editada"></a>
@@ -24,11 +26,11 @@ Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções
 
 ## Experimente o Hokucat
 
-**A versão de prévia atual é a 1.4.74. O instalador ainda não está disponível para download público.** Os materiais de prévia estão nesta página; veja as atualizações no [histórico de alterações](../../CHANGELOG.md).
+**A 1.4.74 é uma versão de prévia assinada com Developer ID**, compatível com **macOS 13 ou posterior**, em Macs com **Apple Silicon ou Intel**. A notarização pela Apple ainda não foi concluída; o macOS pode bloquear a primeira abertura. Veja as atualizações no [histórico de alterações](../../CHANGELOG.md).
 
-A versão atual para Mac é destinada ao **macOS 13 ou posterior**, em **Apple Silicon e Intel**. Se você já tem uma versão para avaliação:
+Baixe e abra o DMG, arraste o Hokucat para a pasta Applications (Aplicativos) e siga os passos abaixo:
 
-1. Abra o Hokucat pela barra de menus e escolha **Painel de papéis de parede…**.
+1. Abra o Hokucat na pasta Applications (Aplicativos) e escolha **Painel de papéis de parede…** na barra de menus.
 2. Selecione um papel de parede. Veja a prévia e ajuste os controles disponíveis para aquela obra na mesma página.
 3. Clique em **Aplicar papel de parede**. Se você usa mais de uma tela, escolha primeiro a tela de destino.
 

@@ -10,6 +10,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · 繁體中文 · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">下載 v1.4.74 預覽版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+
 在同一個視窗瀏覽桌布收藏、預覽桌布並調整可用設定。也可以用 AI 創作自己的桌布。
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 小貓短片預覽，點選觀看完整剪輯展示"></a>
@@ -24,11 +26,11 @@
 
 ## 試用 Hokucat
 
-**目前預覽版本為 1.4.74，安裝包尚未提供公開下載。** 預覽素材見本頁，版本變更請見[更新紀錄](../../CHANGELOG.md)。
+**1.4.74 是以 Developer ID 簽署的預覽版**，支援 **macOS 13 或更新版本**的 **Apple 晶片與 Intel** Mac。Apple 公證尚未完成，macOS 可能阻擋首次開啟。版本變更請見[更新紀錄](../../CHANGELOG.md)。
 
-目前的 Mac 版本面向 **macOS 13 或更新版本**，包括 **Apple 晶片與 Intel** 版本。如果你已持有審閱版：
+下載並開啟 DMG，將 Hokucat 拖入 Applications（應用程式）資料夾後：
 
-1. 從選單列開啟 Hokucat，選擇**桌布面板…**。
+1. 從 Applications（應用程式）資料夾啟動 Hokucat，再從選單列選擇**桌布面板…**。
 2. 選取桌布，在同一頁預覽並調整該作品提供的控制項。
 3. 按下**套用桌布**。使用多部顯示器時，先選擇要套用的螢幕。
 

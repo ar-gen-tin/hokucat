@@ -10,6 +10,8 @@
   English · <a href="README.zh-CN.md">简体中文</a> · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">Download v1.4.74 Preview</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256 checksums</a></p>
+
 Browse your wallpaper library, preview a wallpaper, and adjust its available settings in one window. Use AI to create wallpapers of your own.
 
 <a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Short Hokucat cat preview; click to watch the edited showcase"></a>
@@ -24,11 +26,11 @@ Browse your wallpaper library, preview a wallpaper, and adjust its available set
 
 ## Try Hokucat
 
-**The current preview build is 1.4.74. Its installer is not yet available for public download.** Preview materials are on this page; see the [changelog](CHANGELOG.md) for updates.
+**Hokucat 1.4.74 is a Developer ID–signed preview for macOS 13 or later, on Apple silicon and Intel.** Apple notarization is not complete, so macOS may block the app when first opened. See the [FAQ](docs/faq.md) for installation details and the [changelog](CHANGELOG.md) for updates.
 
-The current Mac build targets **macOS 13 or later**, on **Apple silicon and Intel**. If you already have a review build:
+Download the DMG above, open it, and drag **Hokucat** to **Applications**. Then:
 
-1. Open Hokucat from the menu bar and choose **Wallpaper Dashboard…**.
+1. Launch Hokucat from Applications, then choose **Wallpaper Dashboard…** from the menu bar.
 2. Select a wallpaper. Preview it and adjust the controls available for that work on the same page.
 3. Click **Apply Wallpaper**. If you use more than one display, choose the destination first.
 

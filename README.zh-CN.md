@@ -10,6 +10,8 @@
   <a href="README.md">English</a> · 简体中文 · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">下载 v1.4.74 预览版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256 校验值</a></p>
+
 在同一窗口浏览壁纸库、预览壁纸并调整可用设置。也可以用 AI 创作自己的壁纸。
 
 <a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Hokucat 小猫片头预览，点击观看完整剪辑演示"></a>
@@ -24,11 +26,11 @@
 
 ## 快速体验
 
-**当前预览构建为 1.4.74，安装包尚未开放公开下载。** 预览材料见本页，版本变化见[更新记录](CHANGELOG.md)。
+**Hokucat 1.4.74 是使用 Developer ID 签名的预览版，支持 macOS 13 或更新版本以及 Apple 芯片和 Intel Mac。** Apple 公证尚未完成，macOS 可能阻止首次打开。安装说明见[常见问题](docs/faq.md#简体中文)，版本变化见[更新记录](CHANGELOG.md)。
 
-当前 Mac 构建面向 **macOS 13 或更新版本**，包含 **Apple 芯片和 Intel** 版本。如果你已获得审阅版：
+下载上方 DMG 文件并打开，将 **Hokucat** 拖入「应用程序」后：
 
-1. 从菜单栏打开 Hokucat，选择「壁纸面板」。
+1. 从「应用程序」启动 Hokucat，再从菜单栏选择「壁纸面板」。
 2. 选中一张壁纸，在同一页面预览，并调整该作品提供的设置。
 3. 点击「应用壁纸」。如果连接了多块显示器，先选择要应用的屏幕。
 

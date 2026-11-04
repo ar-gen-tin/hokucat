@@ -10,6 +10,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">v1.4.74 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+
 하나의 창에서 배경화면 라이브러리를 둘러보고, 미리 보면서 제공되는 설정을 조절하세요. AI로 나만의 배경화면을 만들 수도 있습니다.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 고양이의 짧은 미리보기. 클릭하면 편집된 소개 영상을 볼 수 있습니다"></a>
@@ -24,11 +26,11 @@
 
 ## Hokucat 사용해 보기
 
-**현재 미리보기 빌드는 1.4.74이며, 설치 파일은 아직 공개 다운로드로 제공되지 않습니다.** 미리보기 자료는 이 페이지에서, 변경 사항은 [변경 기록](../../CHANGELOG.md)에서 확인할 수 있습니다.
+**1.4.74는 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. Apple 공증은 아직 완료되지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요.
 
-현재 Mac 빌드는 **macOS 13 이상**의 **Apple Silicon 및 Intel** 환경을 대상으로 합니다. 이미 검토용 빌드가 있다면:
+DMG를 다운로드해 열고 Hokucat을 Applications(응용 프로그램) 폴더로 드래그한 뒤:
 
-1. 메뉴 막대에서 Hokucat을 열고 **배경화면 대시보드…**를 선택하세요.
+1. Applications(응용 프로그램) 폴더에서 Hokucat을 실행한 다음 메뉴 막대에서 **배경화면 대시보드…**를 선택하세요.
 2. 배경화면을 선택하세요. 같은 화면에서 미리 보고 해당 작품에서 제공하는 설정을 조절할 수 있습니다.
 3. **배경화면 적용**을 클릭하세요. 디스플레이가 여러 개라면 적용할 디스플레이를 먼저 선택하세요.
 

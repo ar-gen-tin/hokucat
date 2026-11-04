@@ -10,6 +10,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · 日本語 · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">v1.4.74 プレビュー版をダウンロード</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+
 壁紙ライブラリの閲覧、プレビュー、利用できる設定の調整をひとつのウインドウで行えます。AI で自分だけの壁紙を作ることもできます。
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat の猫の短いプレビュー。クリックすると編集版の紹介映像を再生します"></a>
@@ -24,11 +26,11 @@
 
 ## Hokucat を試す
 
-**現在のプレビュービルドは 1.4.74 です。インストーラはまだ一般公開されていません。** プレビュー素材はこのページで、更新内容は[変更履歴](../../CHANGELOG.md)で確認できます。
+**1.4.74 は Developer ID で署名されたプレビュー版**です。**macOS 13 以降**の **Apple シリコンと Intel** Mac に対応しています。Apple の公証はまだ完了しておらず、macOS が初回起動をブロックする場合があります。更新内容は[変更履歴](../../CHANGELOG.md)をご覧ください。
 
-現在の Mac 版は **macOS 13 以降**の **Apple シリコンと Intel** を対象としています。すでにレビュー版をお持ちの場合：
+DMG をダウンロードして開き、Hokucat を Applications（アプリケーション）フォルダにドラッグしたら：
 
-1. メニューバーから Hokucat を開き、**壁紙ダッシュボード…**を選びます。
+1. Applications（アプリケーション）フォルダから Hokucat を起動し、メニューバーで**壁紙ダッシュボード…**を選びます。
 2. 壁紙を選択します。同じ画面でプレビューし、その作品で利用できる設定を調整します。
 3. **壁紙を適用**をクリックします。複数のディスプレイを使っている場合は、先に適用先を選びます。
 

@@ -10,6 +10,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · Español · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">Descargar la versión preliminar v1.4.74</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a></p>
+
 Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus opciones disponibles en una sola ventana. Usa IA para crear tus propios fondos de pantalla.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Breve vista previa del gato Hokucat; haz clic para ver el vídeo de presentación editado"></a>
@@ -24,11 +26,11 @@ Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus 
 
 ## Prueba Hokucat
 
-**La versión de prueba actual es la 1.4.74. El instalador todavía no está disponible para descarga pública.** Los materiales de vista previa están en esta página; consulta el [registro de cambios](../../CHANGELOG.md) para ver las actualizaciones.
+**La 1.4.74 es una versión preliminar firmada con Developer ID**, compatible con **macOS 13 o posterior** en Mac con **Apple Silicon o Intel**. La notarización de Apple aún no se ha completado; macOS puede bloquear la primera apertura. Consulta las novedades en el [registro de cambios](../../CHANGELOG.md).
 
-La versión actual para Mac está dirigida a **macOS 13 o posterior**, tanto en **Apple Silicon como en Intel**. Si ya tienes una versión para evaluación:
+Descarga y abre el DMG, arrastra Hokucat a la carpeta Applications (Aplicaciones) y sigue estos pasos:
 
-1. Abre Hokucat desde la barra de menús y selecciona **Panel de fondos de pantalla…**.
+1. Abre Hokucat desde la carpeta Applications (Aplicaciones) y selecciona **Panel de fondos de pantalla…** en la barra de menús.
 2. Elige un fondo. Previsualízalo y ajusta los controles disponibles para esa obra en la misma página.
 3. Haz clic en **Aplicar fondo de pantalla**. Si utilizas más de una pantalla, elige primero la pantalla de destino.
 

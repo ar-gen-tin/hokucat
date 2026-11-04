@@ -12,6 +12,8 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · العربية
 </p>
 
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">تنزيل نسخة المعاينة <span dir="ltr">v1.4.74</span></a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt"><span dir="ltr">SHA-256</span></a></p>
+
 تصفّح مكتبة الخلفيات، وعاين الخلفية واضبط إعداداتها المتاحة في نافذة واحدة. ويمكنك استخدام الذكاء الاصطناعي لإنشاء خلفياتك الخاصة.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="معاينة قصيرة لقطة Hokucat؛ انقر لمشاهدة الفيديو التعريفي المعدّ بالمونتاج"></a>
@@ -26,11 +28,11 @@
 
 ## تجربة Hokucat
 
-**نسخة المعاينة الحالية هي 1.4.74. ملف التثبيت غير متاح للتنزيل العام بعد.** مواد المعاينة موجودة في هذه الصفحة؛ راجع [سجل التغييرات](../../CHANGELOG.md) للاطلاع على التحديثات.
+**الإصدار <span dir="ltr">1.4.74</span> هو نسخة معاينة موقّعة بشهادة <span dir="ltr">Developer ID</span>**، وتدعم **<span dir="ltr">macOS 13</span> أو أحدث** على أجهزة Mac بمعالجات **<span dir="ltr">Apple Silicon</span> أو <span dir="ltr">Intel</span>**. لم تكتمل عملية التوثيق لدى Apple بعد؛ وقد يمنع <span dir="ltr">macOS</span> فتح التطبيق للمرة الأولى. راجع [سجل التغييرات](../../CHANGELOG.md) للاطلاع على التحديثات.
 
-يستهدف إصدار Mac الحالي **macOS 13 أو أحدث**، ويدعم **Apple Silicon وIntel**. إذا كانت لديك نسخة للمراجعة بالفعل:
+نزّل ملف <span dir="ltr">DMG</span> وافتحه، واسحب <span dir="ltr">Hokucat</span> إلى مجلد <span dir="ltr">Applications</span> (التطبيقات)، ثم اتبع الخطوات التالية:
 
-1. افتح Hokucat من شريط القوائم واختر **لوحة التحكم بالخلفيات…**.
+1. شغّل <span dir="ltr">Hokucat</span> من مجلد <span dir="ltr">Applications</span> (التطبيقات)، ثم اختر **لوحة التحكم بالخلفيات…** من شريط القوائم.
 2. اختر خلفية. يمكنك معاينتها وضبط عناصر التحكم المتاحة لذلك العمل في الصفحة نفسها.
 3. اضغط **تطبيق الخلفية**. إذا كنت تستخدم أكثر من شاشة، فاختر الشاشة المطلوبة أولًا.
 

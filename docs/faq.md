@@ -4,7 +4,11 @@
 
 ## Can I download Hokucat now?
 
-The current preview build is 1.4.74. Its installer is not yet available for public download. See the [README](../README.md) for preview materials and the [changelog](../CHANGELOG.md) for updates. The current Mac build targets macOS 13 or later on Apple silicon and Intel.
+Yes. [Download Hokucat 1.4.74 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg) for **macOS 13 or later, on Apple silicon and Intel**. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt).
+
+This preview has a **Developer ID signature but has not completed Apple notarization**. Signing and notarization are separate checks. macOS may block the app when first opened; this is not a notarized stable release.
+
+Open the DMG, drag **Hokucat** to **Applications**, then launch it from Applications. See the [changelog](../CHANGELOG.md) for the verified preview changes. The automatic GitHub source archives contain this documentation repository, not the Mac installer.
 
 ## How do I change a wallpaper?
 
@@ -50,7 +54,11 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 ### 现在能下载吗？
 
-当前预览构建为 1.4.74，安装包尚未开放公开下载。预览材料见[项目首页](../README.zh-CN.md)，版本变化见[更新记录](../CHANGELOG.md)。当前 Mac 构建面向 macOS 13 或更新版本，包含 Apple 芯片和 Intel 版本。
+可以。[下载 Hokucat 1.4.74 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg)，支持 **macOS 13 或更新版本以及 Apple 芯片和 Intel Mac**。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt)。
+
+此预览版**已使用 Developer ID 签名，但尚未完成 Apple 公证**。签名与公证是不同的检查，macOS 可能阻止首次打开；这不是已公证的稳定版。
+
+打开 DMG，将 **Hokucat** 拖入「应用程序」，再从「应用程序」启动。已核验的预览版变化见[更新记录](../CHANGELOG.md)。GitHub 自动附带的源代码压缩包是本说明仓库，不是 Mac 安装包。
 
 ### 怎么换壁纸、排序和移除？
 
