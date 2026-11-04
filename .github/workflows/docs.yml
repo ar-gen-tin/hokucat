@@ -1,0 +1,20 @@
+name: Public documentation
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Check documentation links and languages
+        run: python3 scripts/check-docs.py
+      - name: Check the public example
+        run: |
+          python3 -m py_compile examples/make-wallpaper.py
+          python3 examples/make-wallpaper.py --help

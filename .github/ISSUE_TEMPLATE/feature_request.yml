@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest a change to the desktop or creator experience
+title: "[Idea] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do
+      description: Describe the result you want and the problem it solves. Any supported language is welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example or reference
+      description: Add a public link or a screenshot with private content removed

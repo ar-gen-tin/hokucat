@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Wallpaper creation guide
+    url: https://github.com/ar-gen-tin/hokucat/blob/main/docs/ai-wallpapers.md
+    about: Prepare an image or a silent video package with your AI coding tool
+  - name: Compatibility and downloads
+    url: https://github.com/ar-gen-tin/hokucat/blob/main/docs/faq.md
+    about: Check current availability and supported formats

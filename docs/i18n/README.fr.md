@@ -1,0 +1,59 @@
+<p align="center">
+  <img src="../../assets/hokucat.png" width="100" height="100" alt="Le chat noir de Hokucat et une étoile ambrée">
+</p>
+
+<h1 align="center">Hokucat</h1>
+
+<p align="center"><strong>Un peu de vie sur le bureau de votre Mac.</strong></p>
+
+<p align="center">
+  <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · Français · <a href="README.ar.md">العربية</a>
+</p>
+
+Parcourez votre bibliothèque de fonds d’écran, prévisualisez une création et réglez les options disponibles dans une seule fenêtre. Appliquez-la lorsqu’elle vous convient. Hokucat apporte à macOS des scènes animées et des personnages avec lesquels jouer, dont un petit chat noir qui suit le pointeur et poursuit une étoile que vous pouvez faire glisser.
+
+![Tableau de bord Hokucat réunissant la bibliothèque, l’aperçu et les réglages](../../assets/hokucat-dashboard.jpg)
+
+*Capture réelle du Tableau de bord des fonds d’écran dans la version 1.4.73 destinée à l’évaluation.*
+
+[![Court aperçu du chat Hokucat ; cliquez pour regarder la vidéo de présentation montée](../../assets/hokucat-demo.gif)](../../assets/hokucat-demo.mp4)
+
+[Regarder la vidéo](../../assets/hokucat-demo.mp4) · [Créer un fond d’écran](../ai-wallpapers.md) · [Questions fréquentes](../faq.md)
+
+*La vidéo est un montage de présentation des fonds d’écran. Les créations tierces pour PC montrées dans les supports d’aperçu sont réservées aux tests. Consultez les [auteurs et les pages d’origine](../credits.md).*
+
+## Essayer Hokucat
+
+**La version 1.4.74 est une préversion. L’installeur attend l’examen préalable à sa distribution et n’est pas encore disponible en téléchargement public.** Consultez la [page des versions](https://github.com/ar-gen-tin/hokucat/releases) pour connaître la situation actuelle et voir les supports d’aperçu.
+
+La version actuelle pour Mac vise **macOS 13 ou ultérieur**, sur **Apple Silicon et Intel**. Si vous disposez déjà d’une version d’évaluation :
+
+1. Ouvrez Hokucat depuis la barre des menus et choisissez **Tableau de bord des fonds d’écran…**.
+2. Sélectionnez un fond d’écran. Prévisualisez-le et réglez les commandes disponibles pour cette création sur la même page.
+3. Cliquez sur **Appliquer le fond d’écran**. Si vous utilisez plusieurs écrans, choisissez d’abord l’écran de destination.
+
+## Un bureau à votre goût
+
+- **Une bibliothèque à parcourir.** Recherchez un fond d’écran, organisez votre collection manuellement ou triez-la par nom.
+- **L’aperçu et les réglages réunis.** Retrouvez la création sélectionnée à côté de ses commandes. Pour les vidéos compatibles, réglez l’adaptation à l’écran, la vitesse et le retournement horizontal avant l’application.
+- **Une gestion simple de la bibliothèque.** Faites glisser les éléments pour les réordonner, utilisez le menu contextuel pour les actions courantes et supprimez les fonds importés après confirmation. Les fichiers d’origine restent à leur emplacement.
+- **Des interactions familières sur Mac.** Accédez à Hokucat dans la barre des menus, conservez vos habitudes sur le bureau et jouez avec le regard du chat et son étoile à faire glisser. Les interactions disponibles varient selon le fond d’écran.
+- **Un choix pour chaque écran.** Utilisez un fond différent sur chaque écran connecté. Hokucat mémorise vos choix.
+
+L’interface de l’application est disponible en **anglais, chinois simplifié, chinois traditionnel, japonais, coréen, portugais du Brésil, espagnol, français et arabe**. Choisissez une langue dans les réglages.
+
+## Créer un fond d’écran avec l’IA
+
+Utilisez Codex ou Claude Code pour créer une boucle vidéo originale sans son, ou choisissez une vidéo que vous avez le droit d’utiliser. Le [guide de création](../ai-wallpapers.md) propose un prompt et un exemple exécutable pour produire un paquet prêt à être chargé depuis **Tableau de bord des fonds d’écran → Importer…**.
+
+Package v1 prend en charge les **images PNG/JPEG et les vidéos MP4/MOV/M4V sans son**. L’IA aide à créer les médias ; Hokucat lit les fichiers importés localement. Les projets interactifs génériques Web ou Windows Scene, les entrées de pointeur ou audio en temps réel et les connexions en temps réel à des API ou à des agents ne font pas partie de ce format de paquet. Certains fonds intégrés ou adaptés peuvent disposer de leurs propres fonctions interactives.
+
+L’animation générée par le code de [`examples/make-wallpaper.py`](../../examples/make-wallpaper.py) est un exemple autonome créé pour ce dépôt. Elle est distincte des fonds d’écran tiers pour PC présentés à des fins de test.
+
+## Questions, retours et crédits
+
+Consultez les [questions fréquentes](../faq.md) pour les détails de compatibilité et d’importation, ou [signalez un problème](https://github.com/ar-gen-tin/hokucat/issues) en précisant vos versions de macOS et de Hokucat ainsi que les étapes pour le reproduire. Les améliorations de la documentation, des traductions et des exemples sont les bienvenues. Consultez le [guide de contribution](../../CONTRIBUTING.md).
+
+Ce dépôt contient la documentation publique, les supports de présentation et l’exemple de création. Il **ne contient pas le code source complet de l’application Mac**. Les changements documentés de la préversion figurent dans l’[historique des modifications](../../CHANGELOG.md).
+
+Hokucat est issu de [Grok Bot Wallpaper](https://github.com/Bodila51/grokbot-wallpaper), créé par **0xCodila (Bodila51)**. Les œuvres tierces restent attribuées à leurs créateurs ; leur présentation dans une version de test ne donne pas le droit de les redistribuer. [Origine du projet et crédits des ressources](../credits.md)

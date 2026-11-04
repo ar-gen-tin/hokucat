@@ -1,6 +1,6 @@
 # Make an animated Hokucat wallpaper with AI
 
-Use Codex or Claude Code to render a short animation from code, or bring a video exported from a tool you already use. Turn the result into a local Hokucat Package v1 folder, then preview it in the Wallpaper Dashboard and choose where to apply it.
+Use Codex or Claude Code to render a short animation from code, or bring a video exported from a tool you already use. Turn the result into a local Hokucat Package v1 folder, then preview it in the Wallpaper Dashboard and choose where to apply it. The procedural example below uses generated artwork and is separate from the third-party PC works shown for testing in Hokucat’s preview materials; see [authors and original pages](credits.md).
 
 ## Start with an original animation
 
@@ -68,31 +68,6 @@ The preview is the image shown in the library. The fallback is the still Hokucat
 
 List `media/loop.mp4`, `media/preview.png`, and `media/still.png` in the `assets` array of `rights/assets.json`. Each record has `path`, `attribution`, `usage`, `adaptation`, and `distribution`. Use your actual source and rights for every file, including any source used to create the preview or fallback. Local import requires `usage: true`. Keep `distribution: false` when permission to redistribute is unconfirmed.
 
-### Creator Kit from a Hokucat source checkout
-
-On macOS 13 or later with Xcode or the Command Line Tools, run these commands from a Hokucat source checkout. The destination must be a new folder with an existing parent directory.
-
-```sh
-bash mac/creator.sh init-video "$HOME/quiet-tide"
-```
-
-Replace the starter video, preview, and still with your work. For the `quiet-tide.mp4` export above, run these commands with FFmpeg installed. They replace the three sample media files in the new starter folder.
-
-```sh
-package="$HOME/quiet-tide"
-ffmpeg -y -i quiet-tide.mp4 -map 0:v:0 -an -c:v libx264 -pix_fmt yuv420p \
-  -movflags +faststart "$package/media/loop.mp4"
-ffmpeg -y -i "$package/media/loop.mp4" -frames:v 1 -update 1 "$package/media/still.png"
-ffmpeg -y -i "$package/media/loop.mp4" -vf scale=640:-2 -frames:v 1 -update 1 \
-  "$package/media/preview.png"
-```
-
-Update the title, ID, author, recommended resolution, and rights declarations to match your files. Validate the finished package with the app's importer in temporary storage.
-
-```sh
-bash mac/creator.sh validate "$HOME/quiet-tide" --json
-```
-
 ## Try it on your Mac
 
 In an installed Hokucat build with Package v1 support, open **Wallpaper Dashboard → Import…** and select the package folder. Preview it, choose a display, and click **Apply Wallpaper**. Watch through at least two loop boundaries and check how the wallpaper crops on the display you chose.
@@ -100,6 +75,8 @@ In an installed Hokucat build with Package v1 support, open **Wallpaper Dashboar
 Package v1 accepts PNG or JPEG stills and silent MP4, MOV, or M4V loops. The desktop plays the packaged media locally. The AI assistant is a creation tool for this workflow. Interactive Web and Windows Scene projects, audio input, and live pointer, API, or agent input are outside the v1 format.
 
 ## 中文快速开始
+
+本教程的程序示例生成自己的素材，与 Hokucat 预览材料中仅供测试的第三方 PC 作品分开；相关作者和原页见[署名说明](credits.md)。
 
 安装 Python 3 和带有 H.264 编码器的 FFmpeg，确保终端能运行 `ffmpeg` 和 `ffprobe`。在本仓库目录下生成一个可导入的 8 秒示例。
 
