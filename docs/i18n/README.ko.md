@@ -10,7 +10,7 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">v1.4.74 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg">v1.4.77 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
 
 하나의 창에서 배경화면 라이브러리를 둘러보고, 미리 보면서 제공되는 설정을 조절하세요. AI로 나만의 배경화면을 만들 수도 있습니다.
 
@@ -26,7 +26,7 @@
 
 ## Hokucat 사용해 보기
 
-**1.4.74는 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요.
+**1.4.77는 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요.
 
 DMG를 다운로드해 열고 Hokucat을 Applications(응용 프로그램) 폴더로 드래그한 뒤:
 

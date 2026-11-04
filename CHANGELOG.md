@@ -2,6 +2,16 @@
 
 These entries describe verified changes in the preview builds. See the [project overview](README.md) for demos and the [FAQ](docs/faq.md) for installation details.
 
+## 1.4.77 — Cinderella memory update
+
+[Download the DMG](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg) · [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt)
+
+- Release hidden Cinderella scene textures after transitions, and restore them when needed. Image resolution, materials, and animation settings are preserved.
+- In one local A/B test against 1.4.76 at the same display size, the warmed-up lobby observation median for the app and its attributed WebKit processes fell from 745.53 MiB to 673.53 MiB (72.00 MiB, about 9.7%). This is a short, scene-specific measurement, not a guarantee for every wallpaper or Mac.
+- Passed 26 exact before/after frame comparisons, interaction and graphics-recovery checks, 65 Python tests, and release smoke checks. About eight minutes of installed dual-display observation showed one app instance, two wallpaper windows, and no newly logged faults in the monitored categories.
+- Remove build-machine paths from debug symbols in the distributed executable.
+- Developer ID–signed preview, not notarized. Long-duration, cross-device, Intel runtime, physical sleep/wake, and display hot-plug tests were not performed for this build.
+
 ## 1.4.74 — Signed preview
 
 [Download the DMG](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg) · [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt)
@@ -17,6 +27,8 @@ These entries describe verified changes in the preview builds. See the [project 
 ## 简体中文
 
 以上仅记录已核验的预览版变化，安装说明见[常见问题](docs/faq.md#简体中文)。
+
+- **1.4.77：** [下载已签名预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg)。优化 Cinderella 隐藏场景的纹理释放与恢复，保留画质和互动。同尺寸本机 A/B 短时测试中，预热后大厅观察段的应用与关联 WebKit 物理内存中位数从 745.53 MiB 降至 673.53 MiB，减少约 9.7%。通过 26 组画面逐像素对照、互动与图形恢复检查、65 项 Python 测试和发布烟测；约八分钟双屏观察保持单实例、两个壁纸窗口，监测范围内未记录新故障。发行文件已清除构建目录信息。已签名、未公证；本版未补做长时、跨设备、Intel 实机、整机睡眠唤醒和外屏拔插测试。
 
 - **1.4.74：** [下载已签名预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg) · [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt)。支持 macOS 13 或更新版本以及 Apple 芯片和 Intel Mac，已使用 Developer ID 签名。Apple 公证尚未完成，macOS 可能阻止首次打开。浏览测试壁纸库中的 Star Citizen 时使用静态封面，避免仅选中封面就多开一路视频播放。
 - **1.4.73：** 重做 Hokucat 小黑猫场景，保留鼠标追视、星星拖动和碎星轨迹互动。

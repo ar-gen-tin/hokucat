@@ -10,7 +10,7 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · Français · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/Hokucat-1.4.74.dmg">Télécharger la préversion v1.4.74</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.74/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Installer avec l’IA</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg">Télécharger la préversion v1.4.77</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Installer avec l’IA</a></p>
 
 Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et réglez ses options disponibles dans une seule fenêtre. Créez aussi vos propres fonds d’écran avec l’IA.
 
@@ -26,7 +26,7 @@ Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et ré
 
 ## Essayer Hokucat
 
-**La 1.4.74 est une préversion signée avec Developer ID**, compatible avec **macOS 13 ou ultérieur** sur les Mac **Apple Silicon et Intel**. Cette préversion n’est pas notarisée par Apple ; macOS peut bloquer la première ouverture. Consultez les nouveautés dans le [journal des modifications](../../CHANGELOG.md).
+**La 1.4.77 est une préversion signée avec Developer ID**, compatible avec **macOS 13 ou ultérieur** sur les Mac **Apple Silicon et Intel**. Cette préversion n’est pas notarisée par Apple ; macOS peut bloquer la première ouverture. Consultez les nouveautés dans le [journal des modifications](../../CHANGELOG.md).
 
 Téléchargez et ouvrez le DMG, faites glisser Hokucat dans le dossier Applications, puis suivez ces étapes :
 
