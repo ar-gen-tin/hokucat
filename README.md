@@ -44,7 +44,7 @@ The app interface is available in **English, Simplified Chinese, Traditional Chi
 
 ## Create a wallpaper with AI
 
-Use Codex or Claude Code to make an original silent video loop, or bring a video you have permission to use. The [creation guide](docs/ai-wallpapers.md) includes a prompt and a runnable example that makes a package ready for **Wallpaper Dashboard → Import…**.
+Use Codex, Claude Code, or Grok Bot to make an original silent video loop, or bring a video you have permission to use. The [creation guide](docs/ai-wallpapers.md) includes a prompt and a runnable example that makes a package ready for **Wallpaper Dashboard → Import…**.
 
 Package v1 supports **PNG/JPEG images and silent MP4/MOV/M4V videos**. AI helps create the media; Hokucat plays the imported files locally. General interactive Web or Windows Scene projects, live pointer or audio input, and live API or agent connections are outside this package format. Selected built-in or adapted wallpapers can have their own interactive features.
 

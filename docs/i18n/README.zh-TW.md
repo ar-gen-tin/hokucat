@@ -44,7 +44,7 @@
 
 ## 用 AI 創作桌布
 
-用 Codex 或 Claude Code 製作原創的靜音循環影片，或使用你有權使用的影片。[創作指南](../ai-wallpapers.md) 提供提示詞與可執行範例，可產生能透過**桌布面板 → 匯入…**載入的作品包。
+用 Codex、Claude Code 或 Grok Bot 製作原創的靜音循環影片，或使用你有權使用的影片。[創作指南](../ai-wallpapers.md) 提供提示詞與可執行範例，可產生能透過**桌布面板 → 匯入…**載入的作品包。
 
 Package v1 支援 **PNG/JPEG 圖片與靜音 MP4/MOV/M4V 影片**。AI 協助製作素材，Hokucat 在本機播放匯入的檔案。這個作品包格式不支援通用互動式 Web 或 Windows Scene 專案、即時游標或音訊輸入，也不支援即時 API 或 Agent 連線。部分內建或改編桌布可有各自的互動功能。
 

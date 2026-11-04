@@ -1,10 +1,10 @@
 # Make an animated Hokucat wallpaper with AI
 
-Use Codex or Claude Code to render a short animation from code, or bring a video exported from a tool you already use. Turn the result into a local Hokucat Package v1 folder, then preview it in the Wallpaper Dashboard and choose where to apply it. The procedural example below uses generated artwork and is separate from the third-party PC works shown for testing in Hokucat’s preview materials; see [authors and original pages](credits.md).
+Use Codex, Claude Code, or Grok Bot to render a short animation from code, or bring a video exported from a tool you already use. Turn the result into a local Hokucat Package v1 folder, then preview it in the Wallpaper Dashboard and choose where to apply it. The procedural example below uses generated artwork and is separate from the third-party PC works shown for testing in Hokucat’s preview materials; see [authors and original pages](credits.md).
 
 ## Start with an original animation
 
-Open Codex or Claude Code in an empty working folder. Give it this prompt, or change the scene to suit your desktop. [Codex setup](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) · [Claude Code setup](https://code.claude.com/docs/en/overview)
+Give this prompt to Codex, Claude Code, or Grok Bot, or change the scene to suit your desktop. Use an empty working folder when running the generated scripts locally. [Codex setup](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) · [Claude Code setup](https://code.claude.com/docs/en/overview)
 
 ```text
 Create an original 8-second desktop wallpaper called Quiet Tide. Use Python
@@ -17,7 +17,7 @@ track. Use FFprobe to report its codec, dimensions, duration and streams.
 Keep the source files and video local. Leave the desktop as it is.
 ```
 
-You can also ask ChatGPT to help plan the animation, write a rendering script, or create an original still. To animate a still without a video generation service, ask Codex or Claude Code to render a slow pan, light shift, or other periodic motion from it. If you already have a video export, use that file as your source. Preview the cut between the last and first frames. Transcoding removes audio and standardizes the video. A visible jump still needs an edit to the motion or trim. [Images in ChatGPT](https://help.openai.com/en/articles/11084440-images-in-chatgpt)
+You can also ask ChatGPT to help plan the animation, write a rendering script, or create an original still. To animate a still without a video generation service, ask Codex, Claude Code, or Grok Bot to render a slow pan, light shift, or other periodic motion from it. If you already have a video export, use that file as your source. Preview the cut between the last and first frames. Transcoding removes audio and standardizes the video. A visible jump still needs an edit to the motion or trim. [Images in ChatGPT](https://help.openai.com/en/articles/11084440-images-in-chatgpt)
 
 ## Make the import folder
 
@@ -90,7 +90,7 @@ You can share before trying it in Hokucat—just choose the test status that mat
 python3 examples/make-wallpaper.py "$HOME/quiet-tide"
 ```
 
-也可以把创作提示词交给 Codex 或 Claude Code，让它在本机生成原创循环视频。ChatGPT 可用于写分镜、生成原创静帧或草拟动效脚本。拿到已有视频后，用下面的命令去掉音轨，并生成图库预览、回退图和作品清单。
+也可以把创作提示词交给 Codex、Claude Code 或 Grok Bot，让它在本机生成原创循环视频。ChatGPT 可用于写分镜、生成原创静帧或草拟动效脚本。拿到已有视频后，用下面的命令去掉音轨，并生成图库预览、回退图和作品清单。
 
 ```sh
 python3 examples/make-wallpaper.py "$HOME/my-wallpaper" \

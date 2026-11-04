@@ -44,7 +44,7 @@ L’interface de l’application est disponible en **anglais, chinois simplifié
 
 ## Créer un fond d’écran avec l’IA
 
-Utilisez Codex ou Claude Code pour créer une boucle vidéo originale sans son, ou choisissez une vidéo que vous avez le droit d’utiliser. Le [guide de création](../ai-wallpapers.md) propose un prompt et un exemple exécutable pour produire un paquet prêt à être chargé depuis **Tableau de bord des fonds d’écran → Importer…**.
+Utilisez Codex, Claude Code ou Grok Bot pour créer une boucle vidéo originale sans son, ou choisissez une vidéo que vous avez le droit d’utiliser. Le [guide de création](../ai-wallpapers.md) propose un prompt et un exemple exécutable pour produire un paquet prêt à être chargé depuis **Tableau de bord des fonds d’écran → Importer…**.
 
 Package v1 prend en charge les **images PNG/JPEG et les vidéos MP4/MOV/M4V sans son**. L’IA aide à créer les médias ; Hokucat lit les fichiers importés localement. Les projets interactifs génériques Web ou Windows Scene, les entrées de pointeur ou audio en temps réel et les connexions en temps réel à des API ou à des agents ne font pas partie de ce format de paquet. Certains fonds intégrés ou adaptés peuvent disposer de leurs propres fonctions interactives.
 

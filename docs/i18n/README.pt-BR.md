@@ -44,7 +44,7 @@ A interface do aplicativo está disponível em **inglês, chinês simplificado, 
 
 ## Crie um papel de parede com IA
 
-Use o Codex ou o Claude Code para criar um vídeo original em loop e sem som, ou use um vídeo que você tenha permissão para utilizar. O [guia de criação](../ai-wallpapers.md) inclui um prompt e um exemplo executável que gera um pacote pronto para **Painel de papéis de parede → Importar…**.
+Use o Codex, o Claude Code ou o Grok Bot para criar um vídeo original em loop e sem som, ou use um vídeo que você tenha permissão para utilizar. O [guia de criação](../ai-wallpapers.md) inclui um prompt e um exemplo executável que gera um pacote pronto para **Painel de papéis de parede → Importar…**.
 
 O Package v1 aceita **imagens PNG/JPEG e vídeos MP4/MOV/M4V sem som**. A IA ajuda a criar a mídia; o Hokucat reproduz os arquivos importados localmente. Projetos interativos genéricos de Web ou Windows Scene, entrada de cursor ou áudio em tempo real e conexões em tempo real com APIs ou agentes não fazem parte desse formato de pacote. Alguns papéis de parede integrados ou adaptados podem ter seus próprios recursos interativos.
 
