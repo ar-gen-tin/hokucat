@@ -12,6 +12,19 @@ The Hokucat logo and black-cat wallpaper artwork were created for this project. 
 
 [`examples/make-wallpaper.py`](../examples/make-wallpaper.py) is the repository’s own procedural example. Without a `--source` argument, it renders the **Quiet Tide** animation from generated gradients and motion, without downloading third-party art. This example is separate from the PC creator works below. With `--source`, the source video and derived images need their own accurate attribution and permissions.
 
+## Last Horizon
+
+**HANCORE · Erik Johansson · yamz8** — source contributor credits. Hokucat adds the macOS interaction and iris adaptation.
+
+The still artwork comes from [HANCORE Last Horizon, commit 6b82372](https://github.com/HANCORE-linux/omarchy-lasthorizon-theme/tree/6b82372a901cb69d0c1ac7e3326c53abd9b374cd); the animated intro comes from [Omarchy, commit 81504b0](https://github.com/omacom/omarchy/tree/81504b08e0fdfc411e07bb0395d6d9347e1cf020/themes/last-horizon). The animation history is recorded in [Omarchy PR #14567](https://github.com/omacom/omarchy/pull/14567).
+
+These assets are distributed with the upstream repositories' MIT notices. The notices are preserved in the app and here:
+
+- **Omarchy — Copyright (c) David Heinemeier Hansson:** [included MIT license](licenses/Omarchy-MIT.txt) · [license at the source commit](https://github.com/omacom/omarchy/blob/81504b08e0fdfc411e07bb0395d6d9347e1cf020/LICENSE).
+- **HANCORE Last Horizon — Copyright (c) 2025 HANCORE:** [included MIT license](licenses/HANCORE-LastHorizon-MIT.txt) · [license at the source commit](https://github.com/HANCORE-linux/omarchy-lasthorizon-theme/blob/6b82372a901cb69d0c1ac7e3326c53abd9b374cd/LICENSE).
+
+These credits identify the source contributions and repository license basis. They do not claim a separate artwork permission granted specifically to Hokucat or endorsement by the contributors.
+
 ## Third-party PC works — for testing only
 
 The following works appear in the current review selection or its demonstration materials. **They are third-party creations, not Hokucat originals, and are for testing only（仅供测试使用）.** Follow the original pages for the works and their creators.
@@ -45,6 +58,8 @@ These entries describe the origins recorded for the review selection. They do no
 Hokucat 从 **0xCodila（Bodila51）** 的 [Grok Bot Wallpaper](https://github.com/Bodila51/grokbot-wallpaper) 发展而来，保留对原 Grok 壁纸与 Mac 桌面宿主的项目署名。
 
 Hokucat 标志、小黑猫壁纸素材，以及公开脚本不带 `--source` 时生成的 Quiet Tide 程序动画，分别属于本项目的品牌／壁纸素材和自写创作示例。不能因此把壁纸库或演示中出现的所有作品统称为 Hokucat 原创。
+
+Last Horizon 保留 **HANCORE · Erik Johansson · yamz8** 的中性贡献署名，Hokucat 完成 macOS 交互与虹膜改编。静态原画来自 HANCORE Last Horizon，动画来自 Omarchy，以上链接固定到实际取材提交。按两个上游仓库的 MIT 许可分发，并随应用与本仓库保留版权及许可全文；此说明不宣称已经获得作者针对 Hokucat 的单独画作授权或背书。
 
 上表六项 PC 创作者作品均为**第三方作品，仅供测试使用**；表中保留作者署名与原作链接。素材中的角色、音乐和其他内容仍需遵循各自条件。只有原页面而无法确认作者时，应以原页面署名为准，不补造作者。Mac 适配、录屏、截图和缩略图不改变原作归属；署名、订阅或「测试」标记也不等于获得再分发许可。
 

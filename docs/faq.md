@@ -4,7 +4,7 @@
 
 ## Can I download Hokucat now?
 
-Yes. [Download Hokucat 1.4.77 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg) for **macOS 13 or later, on Apple silicon and Intel**. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt).
+Yes. [Download Hokucat 1.4.80 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/Hokucat-1.4.80.dmg) for **macOS 13 or later, on Apple silicon and Intel**. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/SHA256SUMS.txt).
 
 This preview has a **Developer ID signature and is not notarized by Apple**. Signing and notarization are separate checks. macOS may block the app when first opened; this is not a notarized stable release.
 
@@ -58,7 +58,7 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 ### 现在能下载吗？
 
-可以。[下载 Hokucat 1.4.77 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg)，支持 **macOS 13 或更新版本以及 Apple 芯片和 Intel Mac**。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt)。
+可以。[下载 Hokucat 1.4.80 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/Hokucat-1.4.80.dmg)，支持 **macOS 13 或更新版本以及 Apple 芯片和 Intel Mac**。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/SHA256SUMS.txt)。
 
 此预览版**已使用 Developer ID 签名，未经过 Apple 公证**。签名与公证是不同的检查，macOS 可能阻止首次打开；这不是已公证的稳定版。
 

@@ -10,9 +10,11 @@
   English · <a href="README.zh-CN.md">简体中文</a> · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg">Download v1.4.77 Preview</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt">SHA-256 checksums</a> · <a href="docs/install-with-ai.md">Install with AI</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/Hokucat-1.4.80.dmg">Download v1.4.80 Preview</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/SHA256SUMS.txt">SHA-256 checksums</a> · <a href="docs/install-with-ai.md">Install with AI</a></p>
 
 Browse your wallpaper library, preview a wallpaper, and adjust its available settings in one window. Use AI to create wallpapers of your own.
+
+Last Horizon adds eyes that open and close on click, cycling through blue, amber, and feline irises.
 
 <a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Short Hokucat cat preview; click to watch the edited showcase"></a>
 
@@ -26,7 +28,7 @@ Browse your wallpaper library, preview a wallpaper, and adjust its available set
 
 ## Try Hokucat
 
-**Hokucat 1.4.77 is a Developer ID–signed preview for macOS 13 or later, on Apple silicon and Intel.** This preview is not notarized by Apple, so macOS may block the app when first opened. See the [FAQ](docs/faq.md) for installation details and the [changelog](CHANGELOG.md) for updates.
+**Hokucat 1.4.80 is a Developer ID–signed preview for macOS 13 or later, on Apple silicon and Intel.** This preview is not notarized by Apple, so macOS may block the app when first opened. See the [FAQ](docs/faq.md) for installation details and the [changelog](CHANGELOG.md) for updates.
 
 Download the DMG above, open it, and drag **Hokucat** to **Applications**. Then:
 

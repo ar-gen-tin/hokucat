@@ -10,7 +10,7 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · Português (Brasil) · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/Hokucat-1.4.77.dmg">Baixar a prévia v1.4.77</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.77/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Instalar com IA</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/Hokucat-1.4.80.dmg">Baixar a prévia v1.4.80</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Instalar com IA</a></p>
 
 Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções disponíveis em uma única janela. Use IA para criar seus próprios papéis de parede.
 
@@ -26,7 +26,7 @@ Explore sua biblioteca de papéis de parede, veja a prévia e ajuste as opções
 
 ## Experimente o Hokucat
 
-**A 1.4.77 é uma versão de prévia assinada com Developer ID**, compatível com **macOS 13 ou posterior**, em Macs com **Apple Silicon ou Intel**. Esta prévia não foi notarizada pela Apple; o macOS pode bloquear a primeira abertura. Veja as atualizações no [histórico de alterações](../../CHANGELOG.md).
+**A 1.4.80 é uma versão de prévia assinada com Developer ID**, compatível com **macOS 13 ou posterior**, em Macs com **Apple Silicon ou Intel**. Esta prévia não foi notarizada pela Apple; o macOS pode bloquear a primeira abertura. Veja as atualizações no [histórico de alterações](../../CHANGELOG.md).
 
 Baixe e abra o DMG, arraste o Hokucat para a pasta Applications (Aplicativos) e siga os passos abaixo:
 
