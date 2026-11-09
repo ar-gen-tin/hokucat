@@ -2,6 +2,17 @@
 
 These entries describe verified changes in the preview builds. See the [project overview](README.md) for demos and the [FAQ](docs/faq.md) for installation details.
 
+## 1.4.81 — White cat edge repair
+
+[Download the DMG](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/Hokucat-1.4.81.dmg) · [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/SHA256SUMS.txt)
+
+- Restore the white cat’s soft fur silhouette around the ears, forehead, and cheeks by replacing the polygon cut-out with the original fur alpha, prepared once when the portrait loads.
+- Preserve the closed-face blink, eye tracking, and shared portrait textures across displays.
+- In a local 60-second offscreen comparison at 1920 × 1080, the median physical memory footprint with two active white-cat views fell from 62.36 MiB to 50.50 MiB, about 19%. This measures the isolated renderer process; it does not measure physical dual-display GPU/WindowServer load or long-run behavior.
+- Passed a regression that fails on the old hard edge and passes on the repaired 4K render, day/night switching and shared-texture release checks, 65 Python tests, Creator Kit checks, and native offscreen integration. The white-cat repair was also visually checked in a native window on this Mac.
+- Keep the same 13-entry library, including Last Horizon, with the existing credits and testing labels.
+- Developer ID–signed preview, not notarized. Long-duration, Intel hardware, sleep/wake, and display hot-plug tests were not repeated for this build.
+
 ## 1.4.80 — Last Horizon
 
 [Download the DMG](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/Hokucat-1.4.80.dmg) · [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/SHA256SUMS.txt)
@@ -38,6 +49,8 @@ These entries describe verified changes in the preview builds. See the [project 
 ## 简体中文
 
 以上仅记录已核验的预览版变化，安装说明见[常见问题](docs/faq.md#简体中文)。
+
+- **1.4.81：** [下载已签名预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/Hokucat-1.4.81.dmg)。修复白猫耳尖、头顶和脸颊的多边形硬边，在加载时一次性合成原始毛发透明边缘，保留眨眼、追视和两屏贴图共享。同条件 60 秒离屏对照中，两个白猫视图所在进程的物理内存中位数从 62.36 MiB 降至 50.50 MiB，约减少 19%；该结果不涵盖实际双屏 GPU、WindowServer 和长期运行。通过可复现旧问题的边缘回归、4K 渲染、日夜切换、贴图释放、65 项 Python 测试、Creator Kit 和原生离屏集成检查，并在本机原生窗口核对了白猫效果。保留含 Last Horizon 的 13 项壁纸及原有署名和测试用标记。已签名、未公证；本版未重复长时、Intel 实机、睡眠唤醒和外屏拔插测试。
 
 - **1.4.80：** [下载已签名预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.80/Hokucat-1.4.80.dmg)。新增 Last Horizon，点击开合双眼，每次睁眼依次切换蓝瞳、琥珀瞳与猫瞳。以 8K 静态原画和经过适配的 1440p 原动画提供 4K 输出，动态底片经放大处理，并非原生 4K。静止时显示静态帧并释放视频播放器。保留贡献者署名、原始来源及两份上游 MIT 许可，详见[Last Horizon 署名](docs/credits.md#last-horizon)。已核对 19 份 Last Horizon 文件（16 份媒体的 SHA-256，以及来源记录与许可副本）和 13 项发行清单；通过 65 项 Python 测试、Creator Kit 与原生离屏集成检查，DMG 挂载确认包内应用与受测应用一致，应用和 DMG 的 Developer ID 签名验证通过。已签名、未公证；本版未补做长时观察、整机睡眠唤醒和 Intel 实机运行测试。
 
