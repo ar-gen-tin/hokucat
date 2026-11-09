@@ -10,11 +10,13 @@
   <a href="README.md">English</a> · 简体中文 · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/Hokucat-1.4.81.dmg">下载 v1.4.81 预览版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/SHA256SUMS.txt">SHA-256 校验值</a> · <a href="docs/install-with-ai.md#中文安装提示词">让 AI 帮你安装</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg">下载 v1.4.87 预览版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt">SHA-256 校验值</a> · <a href="docs/install-with-ai.md#中文安装提示词">让 AI 帮你安装</a></p>
 
 在同一窗口浏览壁纸库、预览壁纸并调整可用设置。也可以用 AI 创作自己的壁纸。
 
-新增 Last Horizon：点击开合双眼，每次睁眼依次切换蓝瞳、琥珀瞳与猫瞳。
+1.4.87 将 Grok、Muse 和 Clawd 收进同一个 **Characters（角色）** 入口；Hokucat 保留独立的手动／自动颜色设置，并加入可调节的 **Glass Clock** 原生时钟和补剂壁纸。
+
+默认库显示八个入口：**Hokucat、Characters（角色）、Glass Clock、Supplements（补剂药板）、NIKKE 灰姑娘、Cutting Mat、Star Citizen、Last Horizon**。Grok White／Black、Muse 和 Clawd 在 Characters 内选择。
 
 <a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Hokucat 小猫片头预览，点击观看完整剪辑演示"></a>
 
@@ -24,11 +26,11 @@
 
 <img src="assets/hokucat-dashboard-zh.jpg" width="960" alt="Hokucat 壁纸面板，壁纸库、预览和设置位于同一窗口">
 
-*壁纸面板截图来自 1.4.73 审阅版。*
+*壁纸面板截图来自 1.4.73 审阅版。演示与截图是历史示例，不代表当前预装壁纸清单。*
 
 ## 快速体验
 
-**Hokucat 1.4.81 是使用 Developer ID 签名的预览版，支持 macOS 13 或更新版本以及 Apple 芯片和 Intel Mac。** 此预览版未经过 Apple 公证，macOS 可能阻止首次打开。安装说明见[常见问题](docs/faq.md#简体中文)，版本变化见[更新记录](CHANGELOG.md)。
+**Hokucat 1.4.87 是使用 Developer ID 签名的预览版，面向 macOS 13 或更新版本构建，包含 Apple 芯片和 Intel Mac 版本。** 此预览版未经过 Apple 公证，macOS 可能阻止首次打开。安装说明见[常见问题](docs/faq.md#简体中文)，版本变化见[更新记录](CHANGELOG.md)。本版尚未经过 Intel 实机运行验证。
 
 下载上方 DMG 文件并打开，将 **Hokucat** 拖入「应用程序」后：
 

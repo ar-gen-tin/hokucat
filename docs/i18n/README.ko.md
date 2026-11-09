@@ -10,7 +10,7 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/Hokucat-1.4.81.dmg">v1.4.81 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.81/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg">v1.4.87 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
 
 하나의 창에서 배경화면 라이브러리를 둘러보고, 미리 보면서 제공되는 설정을 조절하세요. AI로 나만의 배경화면을 만들 수도 있습니다.
 
@@ -22,11 +22,11 @@
 
 <img src="../../assets/hokucat-dashboard.jpg" width="960" alt="라이브러리, 미리보기, 설정을 한곳에 모은 Hokucat 배경화면 대시보드">
 
-*1.4.73 검토용 빌드에서 캡처한 실제 배경화면 대시보드 화면입니다.*
+*1.4.73 검토용 빌드에서 캡처한 실제 배경화면 대시보드 화면입니다. 소개 영상과 스크린샷은 과거 예시이며, 현재 사전 설치된 배경화면 목록을 나타내지 않습니다.*
 
 ## Hokucat 사용해 보기
 
-**1.4.81는 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요.
+**1.4.87은 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요. Apple Silicon 및 Intel용으로 빌드되었지만, 이 버전의 Intel 실기기 실행은 검증하지 않았습니다.
 
 DMG를 다운로드해 열고 Hokucat을 Applications(응용 프로그램) 폴더로 드래그한 뒤:
 
