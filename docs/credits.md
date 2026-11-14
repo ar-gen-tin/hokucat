@@ -6,9 +6,9 @@
 
 Hokucat grew from **0xCodila (Bodila51)**’s [Grok Bot Wallpaper](https://github.com/Bodila51/grokbot-wallpaper). We credit that project as the source of the original Grok wallpaper and Mac desktop host. Hokucat is an independent project; a character reference or adaptation does not imply endorsement by its owner.
 
-## Default library in 1.4.87
+## Default library in 1.4.91
 
-The default library has eight visible entries: **Hokucat, Characters, Glass Clock, Supplements, NIKKE Cinderella, Cutting Mat, Star Citizen, and Last Horizon**. Grok White/Black, Muse, and Clawd are choices inside Characters.
+The default library has nine visible entries: **Hokucat, PIPI, Characters, Glass Clock, Supplements, NIKKE Cinderella, Cutting Mat, Star Citizen, and Last Horizon**. Grok White/Black, Muse, and Clawd are choices inside Characters.
 
 Credits below distinguish the current entries from historical examples retained in older showcase materials. Inclusion in the library does not change the source or permission status of an underlying work.
 
@@ -17,6 +17,10 @@ Credits below distinguish the current entries from historical examples retained 
 The Hokucat logo and black-cat wallpaper artwork were created for this project. This credit applies to those assets, not to every wallpaper visible in the library or showcase.
 
 [`examples/make-wallpaper.py`](../examples/make-wallpaper.py) is the repository’s own procedural example. Without a `--source` argument, it renders the **Quiet Tide** animation from generated gradients and motion, without downloading third-party art. This example is separate from the PC creator works below. With `--source`, the source video and derived images need their own accurate attribution and permissions.
+
+## PIPI
+
+**PIPI** is original artwork and a native interactive implementation created for Hokucat with AI assistance. The orange-and-white cat, garden-window scene, and embroidered scarf are bundled with the app. This entry does not use PC Workshop media.
 
 ## Glass Clock and Supplements
 
@@ -71,9 +75,11 @@ These entries preserve the origins recorded for current and historical review ma
 
 Hokucat 从 **0xCodila（Bodila51）** 的 [Grok Bot Wallpaper](https://github.com/Bodila51/grokbot-wallpaper) 发展而来，保留对原 Grok 壁纸与 Mac 桌面宿主的项目署名。
 
-默认库显示八个入口：**Hokucat、Characters（角色）、Glass Clock、Supplements（补剂药板）、NIKKE 灰姑娘、Cutting Mat、Star Citizen、Last Horizon**。Grok White／Black、Muse 和 Clawd 在 Characters 内选择。
+默认库显示九个入口：**Hokucat、皮皮 PIPI、Characters（角色）、Glass Clock、Supplements（补剂药板）、NIKKE 灰姑娘、Cutting Mat、Star Citizen、Last Horizon**。Grok White／Black、Muse 和 Clawd 在 Characters 内选择。
 
 Hokucat 标志、小黑猫壁纸素材，以及公开脚本不带 `--source` 时生成的 Quiet Tide 程序动画，分别属于本项目的品牌／壁纸素材和自写创作示例。不能因此把壁纸库或演示中出现的所有作品统称为 Hokucat 原创。
+
+**皮皮 PIPI** 的猫咪、窗边花园、刺绣围巾及原生交互由 Hokucat 借助 AI 创作，不使用 PC 创意工坊素材。
 
 **Glass Clock** 是基于 [Filip Zrnzevic（filipz）的公开 CodePen 时钟](https://codepen.io/filipz/pen/LEEMMgz)制作的 macOS 原生适配，按 [CodePen 的公开 Pen MIT 许可政策](https://blog.codepen.io/documentation/licensing/)保留上游版权与许可说明。玻璃材质灵感署名 [Petr Knoll 的 Glass Button](https://codepen.io/Petr-Knoll/pen/QwWLZdx)。[Kedhareswer Naidu 在 21st.dev 的 Glass Clock](https://21st.dev/@kedhareswer/components/glass-clock)仅作视觉参考，未复制或打包其 React 组件源码、运行库或预览媒体；未打包 CodePen 引用的 Braun 标志与外部品牌图片，MIT 源码许可也不代表取得该标志或商标的使用权。
 

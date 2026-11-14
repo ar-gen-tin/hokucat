@@ -1,6 +1,6 @@
 # Install Hokucat with AI
 
-[Download manually](https://github.com/ar-gen-tin/hokucat/releases/tag/v1.4.87) · [简体中文](#中文安装提示词)
+[Download manually](https://github.com/ar-gen-tin/hokucat/releases/tag/v1.4.91) · [简体中文](#中文安装提示词)
 
 Give the prompt below to Codex, Claude Code, or Grok Bot running on your Mac with permission to download files and install apps. A chat without access to your Mac can explain the steps but cannot perform the installation.
 
@@ -42,14 +42,14 @@ This guide pins a specific preview. Do not substitute a similarly named download
 
 | Item | Expected value |
 | --- | --- |
-| Release | [v1.4.87 Preview](https://github.com/ar-gen-tin/hokucat/releases/tag/v1.4.87) |
-| Installer | [Hokucat-1.4.87.dmg](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg) |
-| Checksum file | [SHA256SUMS.txt](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt) |
-| Size | `162,709,670` bytes |
-| SHA-256 | `04b4f13e851dd57a7934ea6eec2fdc193127083eb2a96054b2d8c8026a10ac1d` |
+| Release | [v1.4.91 Preview](https://github.com/ar-gen-tin/hokucat/releases/tag/v1.4.91) |
+| Installer | [Hokucat-1.4.91.dmg](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg) |
+| Checksum file | [SHA256SUMS.txt](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt) |
+| Size | `166,648,404` bytes |
+| SHA-256 | `41c2da1a9f98bbc1232522063b0b73a7d34b0401816ac4bb07bee2d14dd72bd6` |
 | Developer Team ID | `TVNJXB4Z9U` |
 | Bundle identifier | `io.github.bodila51.grokbot-wallpaper` |
-| App version / build | `1.4.87` / `97` |
+| App version / build | `1.4.91` / `101` |
 | System | Built for macOS 13 or later · Apple silicon and Intel; Intel hardware runtime unverified |
 | Distribution status | Developer ID–signed · Not notarized |
 

@@ -10,9 +10,11 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · 繁體中文 · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg">下載 v1.4.87 預覽版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md#中文安装提示词">讓 AI 協助安裝</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">下載 v1.4.91 預覽版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md#中文安装提示词">讓 AI 協助安裝</a></p>
 
 在同一個視窗瀏覽桌布收藏、預覽桌布並調整可用設定。也可以用 AI 創作自己的桌布。
+
+新增預裝壁紙 **皮皮 PIPI**，眼睛和頭部跟隨滑鼠，刺繡圍巾隨轉頭輕動，頭頸與身體連貫運動。
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 小貓短片預覽，點選觀看完整剪輯展示"></a>
 
@@ -26,7 +28,7 @@
 
 ## 試用 Hokucat
 
-**1.4.87 是以 Developer ID 簽署的預覽版**，支援 **macOS 13 或更新版本**的 **Apple 晶片與 Intel** Mac。此預覽版未經 Apple 公證，macOS 可能阻擋首次開啟。版本變更請見[更新紀錄](../../CHANGELOG.md)。此版本包含 Apple 晶片與 Intel 架構，但尚未經過 Intel 實機執行驗證。
+**1.4.91 是以 Developer ID 簽署的預覽版**，支援 **macOS 13 或更新版本**的 **Apple 晶片與 Intel** Mac。此預覽版未經 Apple 公證，macOS 可能阻擋首次開啟。版本變更請見[更新紀錄](../../CHANGELOG.md)。此版本包含 Apple 晶片與 Intel 架構，但尚未經過 Intel 實機執行驗證。
 
 下載並開啟 DMG，將 Hokucat 拖入 Applications（應用程式）資料夾後：
 

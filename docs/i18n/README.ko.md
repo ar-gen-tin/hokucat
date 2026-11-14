@@ -10,9 +10,11 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg">v1.4.87 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">v1.4.91 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
 
 하나의 창에서 배경화면 라이브러리를 둘러보고, 미리 보면서 제공되는 설정을 조절하세요. AI로 나만의 배경화면을 만들 수도 있습니다.
+
+**PIPI** 배경화면이 기본 포함됩니다. 눈과 머리가 포인터를 따라 움직이고, 자수가 놓인 스카프가 고개 움직임에 맞춰 가볍게 흔들립니다.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 고양이의 짧은 미리보기. 클릭하면 편집된 소개 영상을 볼 수 있습니다"></a>
 
@@ -26,7 +28,7 @@
 
 ## Hokucat 사용해 보기
 
-**1.4.87은 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요. Apple Silicon 및 Intel용으로 빌드되었지만, 이 버전의 Intel 실기기 실행은 검증하지 않았습니다.
+**1.4.91은 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요. Apple Silicon 및 Intel용으로 빌드되었지만, 이 버전의 Intel 실기기 실행은 검증하지 않았습니다.
 
 DMG를 다운로드해 열고 Hokucat을 Applications(응용 프로그램) 폴더로 드래그한 뒤:
 

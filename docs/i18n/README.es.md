@@ -10,9 +10,11 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · Español · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg">Descargar la versión preliminar v1.4.87</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Instalar con IA</a></p>
+<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">Descargar la versión preliminar v1.4.91</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Instalar con IA</a></p>
 
 Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus opciones disponibles en una sola ventana. Usa IA para crear tus propios fondos de pantalla.
+
+**PIPI** ya viene preinstalado. Los ojos y la cabeza siguen el puntero, y el pañuelo bordado se mueve suavemente con la cabeza.
 
 <a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Breve vista previa del gato Hokucat; haz clic para ver el vídeo de presentación editado"></a>
 
@@ -26,7 +28,7 @@ Explora tu biblioteca de fondos de pantalla, previsualiza un fondo y ajusta sus 
 
 ## Prueba Hokucat
 
-**La 1.4.87 es una versión preliminar firmada con Developer ID**, compatible con **macOS 13 o posterior** en Mac con **Apple Silicon o Intel**. Esta versión preliminar no está notarizada por Apple; macOS puede bloquear la primera apertura. Consulta las novedades en el [registro de cambios](../../CHANGELOG.md). La compilación incluye Apple Silicon e Intel, pero no se ha verificado esta versión en un Mac Intel real.
+**La 1.4.91 es una versión preliminar firmada con Developer ID**, compatible con **macOS 13 o posterior** en Mac con **Apple Silicon o Intel**. Esta versión preliminar no está notarizada por Apple; macOS puede bloquear la primera apertura. Consulta las novedades en el [registro de cambios](../../CHANGELOG.md). La compilación incluye Apple Silicon e Intel, pero no se ha verificado esta versión en un Mac Intel real.
 
 Descarga y abre el DMG, arrastra Hokucat a la carpeta Applications (Aplicaciones) y sigue estos pasos:
 

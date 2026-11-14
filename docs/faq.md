@@ -4,7 +4,7 @@
 
 ## Can I download Hokucat now?
 
-Yes. [Download Hokucat 1.4.87 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg) built for **macOS 13 or later, on Apple silicon and Intel**. Intel hardware runtime has not been verified for this build. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt).
+Yes. [Download Hokucat 1.4.91 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg) built for **macOS 13 or later, on Apple silicon and Intel**. Intel hardware runtime has not been verified for this build. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt).
 
 This preview has a **Developer ID signature and is not notarized by Apple**. Signing and notarization are separate checks. macOS may block the app when first opened; this is not a notarized stable release.
 
@@ -22,10 +22,11 @@ Open **Wallpaper Dashboard…** from the menu bar, select a wallpaper, preview i
 
 *Historical app screenshot from an earlier review build; it does not represent the current preinstalled library. Star Citizen and the other third-party works shown are for testing only. [Credits and original pages](credits.md)*
 
-## Where are the character and desktop controls in 1.4.87?
+## Where are the character and desktop controls?
 
-The default library has eight visible entries: **Hokucat, Characters, Glass Clock, Supplements, NIKKE Cinderella, Cutting Mat, Star Citizen, and Last Horizon**. Grok White/Black, Muse, and Clawd are choices inside Characters.
+The default library has nine visible entries: **Hokucat, PIPI, Characters, Glass Clock, Supplements, NIKKE Cinderella, Cutting Mat, Star Citizen, and Last Horizon**. Grok White/Black, Muse, and Clawd are choices inside Characters.
 
+- **PIPI** follows the pointer with its eyes and head; its embroidered scarf moves gently with the head.
 - **Characters** combines the former Grok White, Grok Black, Muse, and Clawd entries. Select the character inline beside the preview, then use its native black/white appearance control.
 - **Hokucat** remains a separate entry with its own manual color selection and automatic color mode.
 - **Glass Clock** is a native clock with adjustable time zone, size, second hand, and background.
@@ -69,7 +70,7 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 ### 现在能下载吗？
 
-可以。[下载 Hokucat 1.4.87 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/Hokucat-1.4.87.dmg)，面向 **macOS 13 或更新版本构建，包含 Apple 芯片与 Intel 架构**；本版尚未经过 Intel 实机运行验证。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.87/SHA256SUMS.txt)。
+可以。[下载 Hokucat 1.4.91 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg)，面向 **macOS 13 或更新版本构建，包含 Apple 芯片与 Intel 架构**；本版尚未经过 Intel 实机运行验证。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt)。
 
 此预览版**已使用 Developer ID 签名，未经过 Apple 公证**。签名与公证是不同的检查，macOS 可能阻止首次打开；这不是已公证的稳定版。
 
@@ -83,10 +84,11 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 从菜单栏打开「壁纸面板」，选中作品，在同页预览和调整设置，点击「应用壁纸」才会切换。多显示器用户先选择屏幕。壁纸库支持搜索、按名称排序和手动拖动排序，部分默认作品固定在前面。可移除的条目会先弹出确认；导入前的原始文件不会被改动。若作品正在使用，确认窗口会列出受影响的屏幕，移除后切换到内置壁纸。
 
-### 1.4.87 的角色和桌面控件在哪里？
+### 角色和桌面控件在哪里？
 
-默认库显示八个入口：**Hokucat、Characters（角色）、Glass Clock、Supplements（补剂药板）、NIKKE 灰姑娘、Cutting Mat、Star Citizen、Last Horizon**。Grok White／Black、Muse 和 Clawd 在 Characters 内选择。
+默认库显示九个入口：**Hokucat、皮皮 PIPI、Characters（角色）、Glass Clock、Supplements（补剂药板）、NIKKE 灰姑娘、Cutting Mat、Star Citizen、Last Horizon**。Grok White／Black、Muse 和 Clawd 在 Characters 内选择。
 
+- **皮皮 PIPI** 的眼睛和头部跟随鼠标，刺绣围巾随转头轻动。
 - **Characters（角色）**合并原来的 Grok White、Grok Black、Muse 和 Clawd 条目，在预览旁直接选择角色，再使用原生黑白外观切换。
 - **Hokucat** 仍是独立入口，有自己的手动颜色与自动颜色模式。
 - **Glass Clock** 是原生时钟，可调整时区、尺寸、秒针与背景。
