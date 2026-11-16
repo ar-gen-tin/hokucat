@@ -12,27 +12,15 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · العربية
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">تنزيل نسخة المعاينة <span dir="ltr">v1.4.91</span></a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt"><span dir="ltr">SHA-256</span></a> · <a href="../install-with-ai.md">التثبيت بمساعدة الذكاء الاصطناعي</a></p>
+<p align="center"><strong>إصدار جديد في الطريق.</strong> سُحبت تنزيلات نسخ المعاينة السابقة.</p>
 
 تصفّح مكتبة الخلفيات، وعاين الخلفية واضبط إعداداتها المتاحة في نافذة واحدة. ويمكنك استخدام الذكاء الاصطناعي لإنشاء خلفياتك الخاصة.
 
-تأتي خلفية **PIPI** مثبتة مسبقًا. تتبع العينان والرأس حركة المؤشر، ويتحرك الوشاح المطرّز برفق مع الرأس.
-
-<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="معاينة قصيرة لقطة Hokucat؛ انقر لمشاهدة الفيديو التعريفي المعدّ بالمونتاج"></a>
-
-[الموقع الرسمي](https://hokucat.com/) · [شاهد الفيديو](../../assets/hokucat-demo.mp4) · [أنشئ خلفية](../ai-wallpapers.md) · [الأسئلة الشائعة](../faq.md)
-
-*الفيديو عرض تعريفي للخلفيات أُعدّ بالمونتاج. أعمال المبدعين الآخرين المخصصة للكمبيوتر الشخصي والظاهرة في مواد المعاينة مستخدمة للاختبار فقط. راجع [أسماء المبدعين والصفحات الأصلية](../credits.md).*
-
-<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="لوحة التحكم بالخلفيات في Hokucat تجمع المكتبة والمعاينة والإعدادات">
-
-*لقطة فعلية للوحة التحكم بالخلفيات من الإصدار 1.4.73 المخصص للمراجعة. الفيديو ولقطات الشاشة أمثلة من إصدارات سابقة، وليست قائمة بالخلفيات المثبّتة مسبقًا حاليًا.*
+[الموقع الرسمي](https://hokucat.com/) · [أنشئ خلفية](../ai-wallpapers.md) · [الأسئلة الشائعة](../faq.md)
 
 ## تجربة Hokucat
 
-**الإصدار <span dir="ltr">1.4.91</span> هو نسخة معاينة موقّعة بشهادة <span dir="ltr">Developer ID</span>**، وتدعم **<span dir="ltr">macOS 13</span> أو أحدث** على أجهزة Mac بمعالجات **<span dir="ltr">Apple Silicon</span> أو <span dir="ltr">Intel</span>**. لم تخضع نسخة المعاينة هذه للتوثيق لدى Apple؛ وقد يمنع <span dir="ltr">macOS</span> فتح التطبيق للمرة الأولى. راجع [سجل التغييرات](../../CHANGELOG.md) للاطلاع على التحديثات. يتضمن البناء معماريتَي Apple Silicon وIntel، لكن لم يتم التحقق من تشغيل هذا الإصدار على جهاز Mac فعلي بمعالج Intel.
-
-نزّل ملف <span dir="ltr">DMG</span> وافتحه، واسحب <span dir="ltr">Hokucat</span> إلى مجلد <span dir="ltr">Applications</span> (التطبيقات)، ثم اتبع الخطوات التالية:
+عند نشر الإصدار الجديد، نزّل ملف <span dir="ltr">DMG</span> وافتحه، واسحب <span dir="ltr">Hokucat</span> إلى مجلد <span dir="ltr">Applications</span> (التطبيقات)، ثم اتبع الخطوات التالية:
 
 1. شغّل <span dir="ltr">Hokucat</span> من مجلد <span dir="ltr">Applications</span> (التطبيقات)، ثم اختر **لوحة التحكم بالخلفيات…** من شريط القوائم.
 2. اختر خلفية. يمكنك معاينتها وضبط عناصر التحكم المتاحة لذلك العمل في الصفحة نفسها.

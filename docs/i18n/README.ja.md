@@ -10,27 +10,15 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · 日本語 · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">v1.4.91 プレビュー版をダウンロード</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI でインストール</a></p>
+<p align="center"><strong>新しいバージョンを準備中です。</strong>これまでのプレビュー版のダウンロードは取り下げました。</p>
 
 壁紙ライブラリの閲覧、プレビュー、利用できる設定の調整をひとつのウインドウで行えます。AI で自分だけの壁紙を作ることもできます。
 
-**PIPI** をプリインストール。目と頭がポインタを追い、刺繍入りのスカーフが頭の動きに合わせて軽く揺れます。
-
-<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat の猫の短いプレビュー。クリックすると編集版の紹介映像を再生します"></a>
-
-[公式サイト](https://hokucat.com/) · [紹介映像を見る](../../assets/hokucat-demo.mp4) · [壁紙を作る](../ai-wallpapers.md) · [よくある質問](../faq.md)
-
-*映像は編集して制作した壁紙の紹介です。プレビュー素材に登場する第三者の PC 向け作品はテスト専用です。[作者と作品の公開ページ](../credits.md)をご確認ください。*
-
-<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="ライブラリ、プレビュー、設定をまとめた Hokucat の壁紙ダッシュボード">
-
-*1.4.73 レビュー版で撮影した壁紙ダッシュボードの実際の画面。紹介動画とスクリーンショットは過去の例であり、現在プリインストールされている壁紙の一覧ではありません。*
+[公式サイト](https://hokucat.com/) · [壁紙を作る](../ai-wallpapers.md) · [よくある質問](../faq.md)
 
 ## Hokucat を試す
 
-**1.4.91 は Developer ID で署名されたプレビュー版**です。**macOS 13 以降**の **Apple シリコンと Intel** Mac に対応しています。このプレビュー版は Apple の公証を受けておらず、macOS が初回起動をブロックする場合があります。更新内容は[変更履歴](../../CHANGELOG.md)をご覧ください。Apple シリコンと Intel 向けにビルドされていますが、この版の Intel 実機での動作は未検証です。
-
-DMG をダウンロードして開き、Hokucat を Applications（アプリケーション）フォルダにドラッグしたら：
+新しいバージョンの公開後、DMG をダウンロードして開き、Hokucat を Applications（アプリケーション）フォルダにドラッグしたら：
 
 1. Applications（アプリケーション）フォルダから Hokucat を起動し、メニューバーで**壁紙ダッシュボード…**を選びます。
 2. 壁紙を選択します。同じ画面でプレビューし、その作品で利用できる設定を調整します。

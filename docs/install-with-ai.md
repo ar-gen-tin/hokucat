@@ -1,6 +1,8 @@
 # Install Hokucat with AI
 
-[Download manually](https://github.com/ar-gen-tin/hokucat/releases/tag/v1.4.91) · [简体中文](#中文安装提示词)
+[简体中文](#中文安装提示词)
+
+> **Paused.** The preview download this guide installs has been withdrawn while a new version is prepared. The guide will be updated when it is published; until then there is nothing to install.
 
 Give the prompt below to Codex, Claude Code, or Grok Bot running on your Mac with permission to download files and install apps. A chat without access to your Mac can explain the steps but cannot perform the installation.
 
@@ -42,9 +44,9 @@ This guide pins a specific preview. Do not substitute a similarly named download
 
 | Item | Expected value |
 | --- | --- |
-| Release | [v1.4.91 Preview](https://github.com/ar-gen-tin/hokucat/releases/tag/v1.4.91) |
-| Installer | [Hokucat-1.4.91.dmg](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg) |
-| Checksum file | [SHA256SUMS.txt](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt) |
+| Release | v1.4.91 Preview (withdrawn) |
+| Installer | Hokucat-1.4.91.dmg (withdrawn) |
+| Checksum file | SHA256SUMS.txt (withdrawn) |
 | Size | `166,648,404` bytes |
 | SHA-256 | `41c2da1a9f98bbc1232522063b0b73a7d34b0401816ac4bb07bee2d14dd72bd6` |
 | Developer Team ID | `TVNJXB4Z9U` |
@@ -77,6 +79,8 @@ If macOS blocks this preview after an attempted launch, the user can review **Sy
 Do not disable Gatekeeper, delete quarantine attributes, change the system-wide app policy, or bypass an organization's device restrictions. If Apple reports malware, revoked authorization, or a damaged app, stop and report the exact message instead of recommending an override. See [Apple's guidance for downloaded apps](https://support.apple.com/en-us/102445).
 
 ## 中文安装提示词
+
+> **暂停使用。** 本指南安装的预览版下载已撤下，新版本正在准备中。新版本发布后会更新本指南；在那之前没有可安装的内容。
 
 把下面这段话交给**能操作你这台 Mac** 的 Codex、Claude Code 或 Grok Bot。纯网页聊天如果没有本机操作权限，只能提供指导。当前版本已签名、未公证，首次打开的系统确认仍由你完成。
 

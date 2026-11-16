@@ -10,27 +10,15 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">v1.4.91 미리보기 버전 다운로드</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">AI로 설치하기</a></p>
+<p align="center"><strong>새 버전을 준비하고 있습니다.</strong> 이전 미리보기 버전의 다운로드는 내렸습니다.</p>
 
 하나의 창에서 배경화면 라이브러리를 둘러보고, 미리 보면서 제공되는 설정을 조절하세요. AI로 나만의 배경화면을 만들 수도 있습니다.
 
-**PIPI** 배경화면이 기본 포함됩니다. 눈과 머리가 포인터를 따라 움직이고, 자수가 놓인 스카프가 고개 움직임에 맞춰 가볍게 흔들립니다.
-
-<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Hokucat 고양이의 짧은 미리보기. 클릭하면 편집된 소개 영상을 볼 수 있습니다"></a>
-
-[공식 웹사이트](https://hokucat.com/) · [소개 영상 보기](../../assets/hokucat-demo.mp4) · [배경화면 만들기](../ai-wallpapers.md) · [자주 묻는 질문](../faq.md)
-
-*영상은 편집하여 제작한 배경화면 소개 자료입니다. 미리보기 자료에 등장하는 타 제작자의 PC용 작품은 테스트용으로만 사용됩니다. [제작자와 원본 페이지](../credits.md)를 확인하세요.*
-
-<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="라이브러리, 미리보기, 설정을 한곳에 모은 Hokucat 배경화면 대시보드">
-
-*1.4.73 검토용 빌드에서 캡처한 실제 배경화면 대시보드 화면입니다. 소개 영상과 스크린샷은 과거 예시이며, 현재 사전 설치된 배경화면 목록을 나타내지 않습니다.*
+[공식 웹사이트](https://hokucat.com/) · [배경화면 만들기](../ai-wallpapers.md) · [자주 묻는 질문](../faq.md)
 
 ## Hokucat 사용해 보기
 
-**1.4.91은 Developer ID로 서명된 미리보기 버전**이며, **macOS 13 이상**의 **Apple Silicon 및 Intel** Mac을 지원합니다. 이 미리보기 버전은 Apple 공증을 받지 않아 macOS가 처음 실행을 차단할 수 있습니다. 변경 사항은 [변경 기록](../../CHANGELOG.md)을 확인하세요. Apple Silicon 및 Intel용으로 빌드되었지만, 이 버전의 Intel 실기기 실행은 검증하지 않았습니다.
-
-DMG를 다운로드해 열고 Hokucat을 Applications(응용 프로그램) 폴더로 드래그한 뒤:
+새 버전이 공개되면 DMG를 다운로드해 열고 Hokucat을 Applications(응용 프로그램) 폴더로 드래그한 뒤:
 
 1. Applications(응용 프로그램) 폴더에서 Hokucat을 실행한 다음 메뉴 막대에서 **배경화면 대시보드…**를 선택하세요.
 2. 배경화면을 선택하세요. 같은 화면에서 미리 보고 해당 작품에서 제공하는 설정을 조절할 수 있습니다.

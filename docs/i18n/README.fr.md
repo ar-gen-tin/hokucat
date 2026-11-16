@@ -10,27 +10,15 @@
   <a href="../../README.md">English</a> · <a href="../../README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.es.md">Español</a> · Français · <a href="README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">Télécharger la préversion v1.4.91</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256</a> · <a href="../install-with-ai.md">Installer avec l’IA</a></p>
+<p align="center"><strong>Une nouvelle version arrive.</strong> Les téléchargements des préversions précédentes ont été retirés.</p>
 
 Parcourez votre bibliothèque de fonds d’écran, prévisualisez un fond et réglez ses options disponibles dans une seule fenêtre. Créez aussi vos propres fonds d’écran avec l’IA.
 
-**PIPI** est désormais préinstallé. Ses yeux et sa tête suivent le pointeur, et son foulard brodé accompagne doucement les mouvements de tête.
-
-<a href="../../assets/hokucat-demo.mp4"><img src="../../assets/hokucat-demo.gif" width="960" alt="Court aperçu du chat Hokucat ; cliquez pour regarder la vidéo de présentation montée"></a>
-
-[Site officiel](https://hokucat.com/) · [Regarder la vidéo](../../assets/hokucat-demo.mp4) · [Créer un fond d’écran](../ai-wallpapers.md) · [Questions fréquentes](../faq.md)
-
-*La vidéo est un montage de présentation des fonds d’écran. Les créations tierces pour PC montrées dans les supports d’aperçu sont réservées aux tests. Consultez les [auteurs et les pages d’origine](../credits.md).*
-
-<img src="../../assets/hokucat-dashboard.jpg" width="960" alt="Tableau de bord Hokucat réunissant la bibliothèque, l’aperçu et les réglages">
-
-*Capture réelle du Tableau de bord des fonds d’écran dans la version 1.4.73 destinée à l’évaluation. La vidéo et les captures sont des exemples historiques, pas la liste des fonds d’écran actuellement préinstallés.*
+[Site officiel](https://hokucat.com/) · [Créer un fond d’écran](../ai-wallpapers.md) · [Questions fréquentes](../faq.md)
 
 ## Essayer Hokucat
 
-**La 1.4.91 est une préversion signée avec Developer ID**, compatible avec **macOS 13 ou ultérieur** sur les Mac **Apple Silicon et Intel**. Cette préversion n’est pas notarisée par Apple ; macOS peut bloquer la première ouverture. Consultez les nouveautés dans le [journal des modifications](../../CHANGELOG.md). La compilation inclut Apple Silicon et Intel, mais cette version n’a pas été vérifiée sur un Mac Intel physique.
-
-Téléchargez et ouvrez le DMG, faites glisser Hokucat dans le dossier Applications, puis suivez ces étapes :
+Quand la nouvelle version sera publiée, téléchargez et ouvrez le DMG, faites glisser Hokucat dans le dossier Applications, puis suivez ces étapes :
 
 1. Lancez Hokucat depuis le dossier Applications, puis choisissez **Tableau de bord des fonds d’écran…** dans la barre des menus.
 2. Sélectionnez un fond d’écran. Prévisualisez-le et réglez les commandes disponibles pour cette création sur la même page.

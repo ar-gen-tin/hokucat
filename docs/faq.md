@@ -4,23 +4,15 @@
 
 ## Can I download Hokucat now?
 
-Yes. [Download Hokucat 1.4.91 Preview](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg) built for **macOS 13 or later, on Apple silicon and Intel**. Intel hardware runtime has not been verified for this build. The release includes [SHA-256 checksums](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt).
-
-This preview has a **Developer ID signature and is not notarized by Apple**. Signing and notarization are separate checks. macOS may block the app when first opened; this is not a notarized stable release.
-
-Open the DMG, drag **Hokucat** to **Applications**, then launch it from Applications. See the [changelog](../CHANGELOG.md) for the verified preview changes. The automatic GitHub source archives contain this documentation repository, not the Mac installer.
+Not at the moment. The earlier preview builds have been withdrawn while a new version is prepared. The automatic GitHub source archives contain this documentation repository, not the Mac installer.
 
 ## Can AI help install it?
 
-Yes. Copy the prompt in [Install with AI](install-with-ai.md) into Codex, Claude Code, or Grok Bot with access to your Mac. The assistant can check the download and signature, preserve your settings, and help install the app. Any first-launch security confirmation remains yours to approve. A browser-only chat without local computer access can provide guidance but cannot install it.
+Once the new version is published, yes. Copy the prompt in [Install with AI](install-with-ai.md) into Codex, Claude Code, or Grok Bot with access to your Mac. The assistant can check the download and signature, preserve your settings, and help install the app. Any first-launch security confirmation remains yours to approve. A browser-only chat without local computer access can provide guidance but cannot install it.
 
 ## How do I change a wallpaper?
 
 Open **Wallpaper Dashboard…** from the menu bar, select a wallpaper, preview it and adjust its available settings, then click **Apply Wallpaper**. With multiple displays, select the destination first. Browsing another wallpaper does not apply it automatically.
-
-![Video controls beside the library in the review build](../assets/hokucat-inline-settings.jpg)
-
-*Historical app screenshot from an earlier review build; it does not represent the current preinstalled library. Star Citizen and the other third-party works shown are for testing only. [Credits and original pages](credits.md)*
 
 ## Where are the character and desktop controls?
 
@@ -70,15 +62,11 @@ Open an [issue](https://github.com/ar-gen-tin/hokucat/issues) with the Hokucat a
 
 ### 现在能下载吗？
 
-可以。[下载 Hokucat 1.4.91 预览版](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg)，面向 **macOS 13 或更新版本构建，包含 Apple 芯片与 Intel 架构**；本版尚未经过 Intel 实机运行验证。同一 Release 提供 [SHA-256 校验值](https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt)。
-
-此预览版**已使用 Developer ID 签名，未经过 Apple 公证**。签名与公证是不同的检查，macOS 可能阻止首次打开；这不是已公证的稳定版。
-
-打开 DMG，将 **Hokucat** 拖入「应用程序」，再从「应用程序」启动。已核验的预览版变化见[更新记录](../CHANGELOG.md)。GitHub 自动附带的源代码压缩包是本说明仓库，不是 Mac 安装包。
+暂时不能。此前的预览版已撤下，新版本正在准备中。GitHub 自动附带的源代码压缩包是本说明仓库，不是 Mac 安装包。
 
 ### 可以让 AI 帮忙安装吗？
 
-可以。把[AI 安装指南](install-with-ai.md#中文安装提示词)里的提示词交给能操作你这台 Mac 的 Codex、Claude Code 或 Grok Bot。它可以核对下载文件与签名、保留现有设置并协助安装。首次打开的系统确认由你完成；没有本机操作权限的网页聊天只能指导，不能代为安装。
+新版本发布后可以。把[AI 安装指南](install-with-ai.md#中文安装提示词)里的提示词交给能操作你这台 Mac 的 Codex、Claude Code 或 Grok Bot。它可以核对下载文件与签名、保留现有设置并协助安装。首次打开的系统确认由你完成；没有本机操作权限的网页聊天只能指导，不能代为安装。
 
 ### 怎么换壁纸、排序和移除？
 

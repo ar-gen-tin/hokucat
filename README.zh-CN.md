@@ -10,29 +10,15 @@
   <a href="README.md">English</a> · 简体中文 · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.ar.md">العربية</a>
 </p>
 
-<p align="center"><strong><a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/Hokucat-1.4.91.dmg">下载 v1.4.91 预览版</a></strong> · <a href="https://github.com/ar-gen-tin/hokucat/releases/download/v1.4.91/SHA256SUMS.txt">SHA-256 校验值</a> · <a href="docs/install-with-ai.md#中文安装提示词">让 AI 帮你安装</a></p>
+<p align="center"><strong>新版本正在准备中。</strong>此前的预览版下载已撤下。</p>
 
 在同一窗口浏览壁纸库、预览壁纸并调整可用设置。也可以用 AI 创作自己的壁纸。
 
-新增预装壁纸 **皮皮 PIPI**，眼睛和头部跟随鼠标，刺绣围巾轻轻承接转头，头颈与身体连贯运动。**Glass Clock** 的钟面保持无文字。Grok、Muse 和 Clawd 仍在 **Characters（角色）** 中选择。
-
-默认库显示九个入口：**Hokucat、皮皮 PIPI、Characters（角色）、Glass Clock、Supplements（补剂药板）、NIKKE 灰姑娘、Cutting Mat、Star Citizen、Last Horizon**。Grok White／Black、Muse 和 Clawd 在 Characters 内选择。
-
-<a href="assets/hokucat-demo.mp4"><img src="assets/hokucat-demo.gif" width="960" alt="Hokucat 小猫片头预览，点击观看完整剪辑演示"></a>
-
-[官网](https://hokucat.com/) · [观看演示视频](assets/hokucat-demo.mp4) · [创作壁纸](docs/ai-wallpapers.md#中文快速开始) · [常见问题](docs/faq.md#简体中文)
-
-*视频为壁纸剪辑演示。预览材料中的第三方 PC 作品仅供测试使用，详见[作者署名与原作页面](docs/credits.md)。*
-
-<img src="assets/hokucat-dashboard-zh.jpg" width="960" alt="Hokucat 壁纸面板，壁纸库、预览和设置位于同一窗口">
-
-*壁纸面板截图来自 1.4.73 审阅版。演示与截图是历史示例，不代表当前预装壁纸清单。*
+[官网](https://hokucat.com/) · [创作壁纸](docs/ai-wallpapers.md#中文快速开始) · [常见问题](docs/faq.md#简体中文)
 
 ## 快速体验
 
-**Hokucat 1.4.91 是使用 Developer ID 签名的预览版，面向 macOS 13 或更新版本构建，包含 Apple 芯片和 Intel Mac 版本。** 此预览版未经过 Apple 公证，macOS 可能阻止首次打开。安装说明见[常见问题](docs/faq.md#简体中文)，版本变化见[更新记录](CHANGELOG.md)。本版尚未经过 Intel 实机运行验证。
-
-下载上方 DMG 文件并打开，将 **Hokucat** 拖入「应用程序」后：
+新版本发布后，下载 DMG 文件并打开，将 **Hokucat** 拖入「应用程序」后：
 
 1. 从「应用程序」启动 Hokucat，再从菜单栏选择「壁纸面板」。
 2. 选中一张壁纸，在同一页面预览，并调整该作品提供的设置。
